@@ -1,0 +1,183 @@
+
+{
+    "notes": "The UMZ has been disclosed as The likely replacement for the GMZ-series. The UMZ consists of three launchers mounted on each side of the vehicle for a total of six mine launchers per vehicle. each full turn launcher is hexagonally shaped and contains 30 launch tubes totaling 180. It can fire the mines to one or both sides, or to the rear. Both AP and AT mines are launched from the 140-mm launch tubes.  The UMZ uses the same mine canisters as the PKM system. Depending on the position of the launch tubes, one-, two-, or three-lane mine fields can be laid. Minefield (m): length: 1,000 to 1,200. Depth (m): 30 to 120. Max length of minefield with one basic load (m): AP, PFM-1s: 3,200. AP, POM-2: 5,000. AT, PTM-3: 600. Mine capacity: from 180 to 11,520 depending on the type of mine number of mines in one basic load: AP PFM-1s: 11,520. AP POM-2: 720. AT PTM-3: 180. Variants: although primarily mounted on the ZIL-131B, the UMZ minelaying system has been observed mounted on several different carriers such as a modified MT-Blue chassis or on a PT-S tracked amphibious personnel carrier and most recently on the KamAZ-63501 in the UMZ-K Variant.",
+    "sections": [
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "150.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Gasoline"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "1.4"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "525.0"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "30.0"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "80.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Operating Minimum",
+                    "units": "km/h",
+                    "value": "10.0"
+                },
+                {
+                    "name": "Speed, Operating Maximum",
+                    "units": "km/h",
+                    "value": "40.0"
+                },
+                {
+                    "name": "Minefield Spacing Depth (m)",
+                    "units": "m",
+                    "value": "15.0"
+                },
+                {
+                    "name": "Speed, Operating Surface Laying ",
+                    "units": "km/h",
+                    "value": "40.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "R-168"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mines",
+            "properties": [
+                {
+                    "name": "Combat Load ",
+                    "units": "rds",
+                    "value": "AP, PFM-1S: 3,200. AP, POM-2: 5,000. AT, PTM-3: 600"
+                },
+                {
+                    "name": "Minelaying Pattern",
+                    "value": "Scattered"
+                },
+                {
+                    "name": "Time Required to Load Minelayer  with  One  Basic Mine Load ",
+                    "units": "min",
+                    "value": "60-90"
+                },
+                {
+                    "name": "Time Required to Load Minelayer with Crew only ",
+                    "units": "m",
+                    "value": "INA"
+                },
+                {
+                    "name": "Type",
+                    "value": "AP, PFM-1S; AP, POM-2; AT, PTM-3"
+                },
+                {
+                    "name": "Payload Weight ",
+                    "units": "kg",
+                    "value": "15000.0"
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "NBC Protection",
+                    "value": "INA"
+                },
+                {
+                    "name": "Smoke Screening System",
+                    "value": "No"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Multipurpose Minelayer"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "ZIL-131B, KamAZ-63501, MT-Lou"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "Designed Late 1970s"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Russia and Former Soviet Union"
+                },
+                {
+                    "name": "Troop Capacity ",
+                    "units": "ea",
+                    "value": "N/A"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "10.0"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "2.5"
+                        },
+                        {
+                            "name": "Length, Overall ",
+                            "units": "m",
+                            "value": "7.1"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "3.0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

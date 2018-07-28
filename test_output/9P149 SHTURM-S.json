@@ -1,0 +1,313 @@
+
+{
+    "notes": "Upgrades at-6B and AT-6C/Kokon-M (9M114M1, 2) can be launched from helicopters; but their length exceeds the 1832-mm limit for the Shturm-S autoloader, preventing ground use.",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Fire on Move",
+                            "value": "No"
+                        },
+                        {
+                            "name": "Guidance",
+                            "value": "SACLOS"
+                        },
+                        {
+                            "name": "Launch Method",
+                            "value": "9P149A Launcher Vehicle"
+                        },
+                        {
+                            "name": "Loader Type",
+                            "value": "Automated"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "AT-9/Ataka"
+                        },
+                        {
+                            "name": "Rate of Fire, Cyclic ",
+                            "units": "rd/min",
+                            "value": "3.0"
+                        },
+                        {
+                            "name": "Rate of Fire, Practical ",
+                            "units": "rd/min",
+                            "value": "2.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "ATGM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "290.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "290-hp Diesel"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "500.0"
+                },
+                {
+                    "name": "Speed , Maximum Road ",
+                    "units": "km/h",
+                    "value": "61.0"
+                },
+                {
+                    "name": "Speed, Maximum Cross-Country",
+                    "units": "km/h",
+                    "value": "18.0"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "25.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "4.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "R-123M or R-173 "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "properties": [
+                {
+                    "name": "Beacon or Tracker Type",
+                    "value": "IR"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Day Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "6000.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "KPS-53AV"
+                        }
+                    ]
+                },
+                {
+                    "name": "FCS",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Laser rangefinder"
+                        }
+                    ]
+                },
+                {
+                    "name": "Infrared Searchlight",
+                    "properties": [
+                        {
+                            "name": "Available",
+                            "value": "INA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Night Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "2600.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Sanoet-1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rangefinder",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "Laser"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Weapon 1 Munition 1",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "AT-9/Ataka"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "1100, CE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "6000.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "400.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Shaped Charge (HEAT)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "48.3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "14.0"
+                },
+                {
+                    "name": "Mobility",
+                    "value": "Entrenching blade"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Collective"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "AT-6 ground launcher AT-9"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "MT-LB"
+                },
+                {
+                    "name": "Country of Origin",
+                    "value": "Russia"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1990.0"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Algeria, Armenia, Azerbaijan, Belarus, Czech Republic, Cuba, Georgia, Iran, Indonesia, India, Moldova, Peru, Russia, Slovakia, Syria, Tajikistan, Ukraine"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "12.3"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height ",
+                            "units": "m",
+                            "value": "1.8"
+                        },
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "6.35"
+                        },
+                        {
+                            "name": "Width ",
+                            "units": "m",
+                            "value": "2.85"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "AT-9 (9M120F) ",
+            "notes": "thermobaric HE multi- purpose missiles range to 6,000 m"
+        },
+        {
+            "name": "AT-6 (9M114F)",
+            "notes": "thermobaric HE multi- purpose missiles range to 6,000 m"
+        },
+        {
+            "name": "9A2200 (Ataka) anti-helicopter missile",
+            "notes": "It has a proximity fuze and an HE/frangible rod warhead which assures a kill with hit or near miss.  It can also be used against light armored vehicles"
+        },
+        {
+            "name": "Other Missile Types",
+            "notes": "A version of Ataka, 9M120-1 now has RF plus laser beam rider guidance. It can be used on 9P149 and P- 157, and some RW aircraft."
+        },
+        {
+            "name": "A variety of night sights are available, such as the Kornet-T sight with 3,500 m range (4,000 for detecting helicopters). In Hybrid Threat Tier 1, the 9P149 night sight is 1PN79M3 2nd gen, and ranges to 5,500 m.\nA modular AT-6 ATGM launcher system with launcher / autoloader is available for installation on vehicles, fixed sites and boats.",
+            "notes": ""
+        }
+    ]
+}

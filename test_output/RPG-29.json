@@ -1,0 +1,205 @@
+
+{
+    "notes": "Rpg-29 is a multi-purpose fire support system with both at, he and thermobaric grenades. Thus it serves as all- purpose small unit artillery against the gamut of targets, including vehicles, personnel, buildings, and any other direct-fire targets within range - including helicopters.",
+    "sections": [
+        {
+            "name": "Armament",
+            "properties": [
+                {
+                    "name": "Displacement Time ",
+                    "units": "min",
+                    "value": "less than less than 0.25"
+                },
+                {
+                    "name": "Emplacement Time ",
+                    "units": "min",
+                    "value": "less than less than 0.25"
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "750+ behind ERA, 950+ conventional"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "105, warhead"
+                        },
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "280.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "PG-29V (in canister/launch tube\nextension)"
+                        },
+                        {
+                            "name": "Other",
+                            "value": "TBG-29V multipurpose\nHE thermobaric grenade.\nBlast effects are the same as\nthe TBG-7V (previous pg.).\nEffective range (m): 50-2,000\nRPG-27, PG-7R grenade for\nRPG-7V, and RPG-32/Hashim\nuse the same tandem\nwarhead design.\n"
+                        },
+                        {
+                            "name": "Penetration, Other ",
+                            "units": "mm CE",
+                            "value": "1500+ concrete, 2000 brick, 3000 earth"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "m",
+                            "value": "500 in the AT role, 800 for Multi-\npurpose with HE (Effective)\n"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem HEAT (shaped\ncharge)\n"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "6.7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sights",
+            "sections": [
+                {
+                    "name": "Sights 1",
+                    "properties": [
+                        {
+                            "name": "Magnification",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "1P-38"
+                        },
+                        {
+                            "name": "Sighting Range ",
+                            "units": "m",
+                            "value": "500 for optical sight. Effective range for the iron (post) sight would probably be less. "
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Day sight: Optical and iron, for RPG-29 shoulder-launch "
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "0.6"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sights 2",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "1PN51, 1PN52 standard RPG-29 or RPG-29N "
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Night Sight: II sight"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "2.1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Vampir (RPG-29)"
+                },
+                {
+                    "name": "Barrel Life ",
+                    "units": "rds ",
+                    "value": "300.0"
+                },
+                {
+                    "name": "Cailber/Length ",
+                    "units": "mm",
+                    "value": "105.0"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1989 (RPG-29)"
+                },
+                {
+                    "name": "Deployment",
+                    "value": "The pintle permits the launcher to attach\nto a tripod ground mount or a vehicle mount.  The RPG-29 can be broken down into two parts for one soldier carry (launcher unit front section, and grenade/canister rear\nsection).  It can be made ready to fire within a few seconds with quick connect couplings.\nA folding bipod is provided to assist aiming during prone firing.\n\n"
+                },
+                {
+                    "name": "Fire from Inside Building",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Russia, Syria, Mexico,"
+                },
+                {
+                    "name": "Rate of Fire ",
+                    "units": "rd/min",
+                    "value": "INA"
+                },
+                {
+                    "name": "Weight ",
+                    "units": "kg",
+                    "value": "11.5 (launch tube and canister/extension)"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Length, Firing ",
+                            "units": " m",
+                            "value": "1.85 with grenade canister attached"
+                        },
+                        {
+                            "name": "Length, Transport ",
+                            "units": "m",
+                            "value": "1 without rear section/canister"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "RPG-29 ",
+            "notes": "Night sight only shoulder-launch variant"
+        },
+        {
+            "name": "RPG-29N",
+            "notes": "Night sight only shoulder-launch variant"
+        }
+    ]
+}

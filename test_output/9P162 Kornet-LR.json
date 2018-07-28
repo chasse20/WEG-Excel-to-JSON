@@ -1,0 +1,344 @@
+
+{
+    "notes": "A new system is the Kornet-EM, with new missiles. Kornet-EM (Kornet-D) missiles (tandem HEAT and HE) range 8 and 10 km. Armor penetration is 1,300 mm for HEAT. The missiles fits in a 9P162; but 9P162 fire control is less modern and may limit range.",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Launch Method",
+                            "value": "Various"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "AT-14"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "ATGM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "500.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "600.0"
+                },
+                {
+                    "name": "Speed , Maximum Road ",
+                    "units": "km/h",
+                    "value": "70.0"
+                },
+                {
+                    "name": "Speed, Maximum Cross-Country",
+                    "units": "km/h",
+                    "value": "35.0"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "45.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "10.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "R-173, R-173P"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "properties": [
+                {
+                    "name": "Beacon or Tracker Type",
+                    "value": "IR"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Day Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "5.41"
+                        },
+                        {
+                            "name": "Field of View ",
+                            "units": "deg",
+                            "value": "5500.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "1PN80/Kornet-TP thermal"
+                        }
+                    ]
+                },
+                {
+                    "name": "FCS",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "INA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Infrared Searchlight",
+                    "properties": [
+                        {
+                            "name": "Available",
+                            "value": "None"
+                        }
+                    ]
+                },
+                {
+                    "name": "Night Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "7.8"
+                        },
+                        {
+                            "name": "Field of View ",
+                            "units": "deg",
+                            "value": "4000.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Korent-T/1PN80 Thermal"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rangefinder",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "Laser"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Command Link",
+                            "value": "Laser beam guidance unit"
+                        },
+                        {
+                            "name": "Fire on Move",
+                            "value": "None"
+                        },
+                        {
+                            "name": "Guidane",
+                            "value": "Laser beam rider"
+                        },
+                        {
+                            "name": "Loader Type",
+                            "value": "Automated"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Korent-LR"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "1200, CE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "5500.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "100.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Shaped Charge (HEAT)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "27.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 2",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Korent-LR HE"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "5500.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "100.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "High Explosive - Thermobaric"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "mt",
+                            "value": "18.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Armor, Applique ",
+                    "units": "mm",
+                    "value": "INA"
+                },
+                {
+                    "name": "Armor, Reactive ",
+                    "units": "mm",
+                    "value": "INA"
+                },
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "INA"
+                },
+                {
+                    "name": "Mobility",
+                    "value": "Entrenching blade"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Collective"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Kornet-T, BMP M1995"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "BMP-3 hull with no turret"
+                },
+                {
+                    "name": "Country of Origin",
+                    "value": "Russia"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1996.0"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Russia"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "14.1"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height ",
+                            "units": "m",
+                            "value": "1.77"
+                        },
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "6.73"
+                        },
+                        {
+                            "name": "Width ",
+                            "units": "m",
+                            "value": "3.15"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "ATM Alternate Kornet turret",
+            "notes": "A manned turret with an overhead weapon system (OWS). ATM can mount on a variety of vehicles. (see pg. 6-68) KPB offers the Kvartet/9P163-2 overhead weapons module to mount on a variety of vehicles (e.g., HMMWV and VBL, see pg 6-31). It has a dual twin (4-tube) launcher and central module with TV/FLIR sights."
+        },
+        {
+            "name": "KPB prototype overhead weapons module",
+            "notes": "KPB displayed a prototype overhead weapons module to mount on a variety of vehicles (displayed on a HMMWV). It has dual twin (4-tube) launcher, and a central module with TV/FLIR sights and MG."
+        }
+    ]
+}

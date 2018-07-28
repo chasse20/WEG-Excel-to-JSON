@@ -1,0 +1,474 @@
+
+{
+    "notes": "For stationary long-range transmissions, Hawk Eye 10-meter folding discones masted antenna is removed from carrying case on right side of vehicle and inserted into antenna base, which extends forward from the turret.",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "7.62"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Elevation ",
+                            "units": "deg",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Fire on Move",
+                            "value": "No"
+                        },
+                        {
+                            "name": "Firing Ports",
+                            "value": "None"
+                        },
+                        {
+                            "name": "Loader Type",
+                            "value": "Belt-feed (100-RD Belts)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 2",
+                    "properties": [
+                        {
+                            "name": "Range, Maximum Aimed ",
+                            "units": "m",
+                            "value": "1500.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Type",
+                    "value": "Diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "600.0"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "40-45"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "65.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "7.0"
+                }
+            ]
+        },
+        {
+            "name": "Command",
+            "properties": [
+                {
+                    "name": "Command",
+                    "value": "Normal Configuration For Rear Compartment Has 2 Officer Workstations    And    Two  Radio\nOperator Consoles.\n"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "properties": [
+                {
+                    "name": "Intercoms",
+                    "value": "2.0"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Command Level",
+                            "value": "Division, Regiment, Brigade And Battalion"
+                        },
+                        {
+                            "name": "Communications Links",
+                            "value": "1 to 12"
+                        }
+                    ]
+                },
+                {
+                    "name": "Radio 1",
+                    "properties": [
+                        {
+                            "name": "Frequency Band",
+                            "value": "HF (Voice/Digital)"
+                        },
+                        {
+                            "name": "Frequency Range ",
+                            "units": "MHz",
+                            "value": "1.5-30"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "R-168-5kve"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "km",
+                            "value": "10-300 R-168-5kve"
+                        }
+                    ]
+                },
+                {
+                    "name": "Radio 2",
+                    "properties": [
+                        {
+                            "name": "Frequency Band",
+                            "value": "VHF (Voice/Digital)"
+                        },
+                        {
+                            "name": "Frequency Range ",
+                            "units": "MHz",
+                            "value": "30-108"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "R-168-25ue"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "km",
+                            "value": "20-40 R-168-25ue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Radio 3",
+                    "properties": [
+                        {
+                            "name": "Frequency Band",
+                            "value": "VHF (Voice/Digital) R-168-100ue"
+                        },
+                        {
+                            "name": "Frequency Range ",
+                            "units": "MHz",
+                            "value": "30-80"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "R-168-100ue"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "km",
+                            "value": "30-60 R-168-100ue"
+                        }
+                    ]
+                },
+                {
+                    "name": "Radio 4",
+                    "properties": [
+                        {
+                            "name": "Frequency Band",
+                            "value": "R-168-5UN(1)E"
+                        },
+                        {
+                            "name": "Frequency Range ",
+                            "units": "MHz",
+                            "value": "30-108 R-168-5UN(1)E"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "R-168-5UN(1)E"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "km",
+                            "value": "43398.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Radio 5",
+                    "properties": [
+                        {
+                            "name": "Frequency Band",
+                            "value": "R-168-5kne"
+                        },
+                        {
+                            "name": "Frequency Band",
+                            "value": "R-168-5kne"
+                        },
+                        {
+                            "name": "Frequency Range ",
+                            "units": "MHz",
+                            "value": " 1.5-30"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "km",
+                            "value": "10-40-300"
+                        }
+                    ]
+                },
+                {
+                    "name": "Radio 6",
+                    "properties": [
+                        {
+                            "name": "Frequency Range ",
+                            "units": "MHz",
+                            "value": "Data Exchange "
+                        },
+                        {
+                            "name": "Name",
+                            "value": "R-438 Satellite Comms System"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "km",
+                            "value": "up to 5000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Encryption",
+            "properties": [
+                {
+                    "name": "Masking Devices",
+                    "value": "R-168mve"
+                },
+                {
+                    "name": "Security",
+                    "value": "Encrypted, Frequency Hopping Spread Spectrum Transmission Capable,  Electro  Magnetic Pulse\n(EMP) Hardened.\n"
+                },
+                {
+                    "name": "Transmission Equipment",
+                    "value": "E-9u Secure"
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "8 (Rha) At 500 M"
+                        },
+                        {
+                            "name": "Other",
+                            "value": "Light Ball/Ball-T, Heavy Ball"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Anti-Aircraft",
+                            "units": "m",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Day ",
+                            "units": "m",
+                            "value": "1000.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Night ",
+                            "units": "m",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, On the Move ",
+                            "units": "m",
+                            "value": "400-500"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "API, API-T"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Radar",
+            "sections": [
+                {
+                    "name": "Antenna",
+                    "properties": [
+                        {
+                            "name": "Other",
+                            "value": "VHF Discones Masted, HF Dipoles And 11-M Mast"
+                        },
+                        {
+                            "name": "Whip Antenna for Mobile Comms",
+                            "value": "1 HF Whip, 3 Vhfwhips"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sights",
+            "properties": [
+                {
+                    "name": "Magnification",
+                    "value": "INA"
+                },
+                {
+                    "name": "Sighting Range ",
+                    "units": "m",
+                    "value": "1500.0"
+                },
+                {
+                    "name": "Type",
+                    "value": "INA"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Night Sights",
+                    "properties": [
+                        {
+                            "name": "Available",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "\"Potok\"- 2"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "BMP-1"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "1 Plus Vehicle / Staff Commander (Included Below)"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1976.0"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "0.57"
+                },
+                {
+                    "name": "Options",
+                    "value": "Spall Liners, Air Conditioning, And A More Powerful Engine"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Bulgaria, China, Czech Republic, Poland, And Sweden"
+                },
+                {
+                    "name": "Troop Capacity ",
+                    "units": "ea",
+                    "value": "Staff 4-6 (Total Vehicle Capacity 5-7)"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "13.3"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Digital Navigation Monitor",
+                    "properties": [
+                        {
+                            "name": "Automated Networks",
+                            "value": "Yes"
+                        },
+                        {
+                            "name": "Emplacement Time ",
+                            "units": "min",
+                            "value": "2 to 3"
+                        },
+                        {
+                            "name": "Graphic Display",
+                            "value": "Yes"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "GLONASS"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Gyrocompass 1g11n"
+                        }
+                    ]
+                },
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "2.15"
+                        },
+                        {
+                            "name": "Length, Overall ",
+                            "units": "m",
+                            "value": "6.74"
+                        }
+                    ]
+                },
+                {
+                    "name": "Power",
+                    "properties": [
+                        {
+                            "name": "Rear Mounted Onboard Generator ",
+                            "units": "kw",
+                            "value": "5.0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "BMP-1ksh",
+            "notes": "Tier 2 System Rradios Include R-130 HF,   R-107,   R-111   VHF,  R-123/173\nVHF.\n"
+        },
+        {
+            "name": "Communications Transmission Platforms",
+            "notes": "CNR/HCLOS/WLAN/SATCOM/  Fiber\nOptics\n"
+        }
+    ]
+}

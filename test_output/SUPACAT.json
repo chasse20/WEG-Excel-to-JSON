@@ -1,0 +1,268 @@
+
+{
+    "notes": "Sources: 2014 WEG. The 7.62 machine gun is the most common weapon, but other options include a 12.78- mm machine gun, a 30/35/40-mm automatic grenade launcher, or an ATGM launcher. Pintle mounts on roll bar allow for other weapons. The pintle mount can even hold a Fara-1 ground surveillance radar when the Supacat is stationary.\n",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "7.62"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "PKT"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "PKT machine gun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Name",
+                    "value": "VW ADE"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Turbo-charged diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed , Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "64.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "less than 5"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Vehicle/Man pack (to meet\ncustomer’s need)\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Weapon 1 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "8 (RHA) at 500 m"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "800.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "825.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Day ",
+                            "units": "m",
+                            "value": "1000.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, On the Move ",
+                            "units": "m",
+                            "value": "450.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Light Ball, Ball-T; Heavy Ball, API, API-T, Incendiary"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Active Protection System",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Applique ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Explosive Reactive ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "Against 76.2-mm rounds, but\nmost of vehicle is open\n"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "No"
+                },
+                {
+                    "name": "Self-Entrenching Blade",
+                    "value": "No"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "INA"
+                },
+                {
+                    "name": "Survivability Equipment",
+                    "value": "INA"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "All-Terrain Mobile Platform\n(ATMP)\n"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1982.0"
+                },
+                {
+                    "name": "Description",
+                    "value": "6 X 6 rough terrain vehicle can carry 2 to personnel with gear or 4 personnel with less gear; vehicle is open & provides no\nprotection to its occupants\n"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Australia, Denmark, New Zealand, Norway, United Kingdom, United States"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "2.7"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "1.9"
+                        },
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "3.44 (with winch)"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "2.0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "ATMP",
+            "notes": ""
+        },
+        {
+            "name": "Mortar Carrier",
+            "notes": ""
+        },
+        {
+            "name": "Howitzer Tow Vehicle",
+            "notes": ""
+        },
+        {
+            "name": "Engineer Vehicle",
+            "notes": ""
+        },
+        {
+            "name": "FLPT",
+            "notes": ""
+        },
+        {
+            "name": "SLLPT",
+            "notes": ""
+        },
+        {
+            "name": "Fuel Cat",
+            "notes": ""
+        },
+        {
+            "name": "Mounted Crane",
+            "notes": ""
+        },
+        {
+            "name": "Aircraft Crash Recovery Vehicle",
+            "notes": ""
+        },
+        {
+            "name": "Radio Rebroadcast Stations",
+            "notes": ""
+        },
+        {
+            "name": "Casualty Evacuation",
+            "notes": ""
+        },
+        {
+            "name": "AGTM Launcher",
+            "notes": ""
+        }
+    ]
+}

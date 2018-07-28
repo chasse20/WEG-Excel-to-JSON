@@ -1,0 +1,296 @@
+
+{
+    "notes": "Range varies with different warheads and warhead weights. Potential range with the design is 500 km. Future warhead options may include biological warfare and non-nuclear EMP warheads.",
+    "sections": [
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Type",
+                    "value": "Diesel, 500-hp"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "1.4"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "1100.0"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "70.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "N/A"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "INA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "sections": [
+                {
+                    "name": "Fire Control Computer",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "The modern automated fire control system can be used as the battle management system for a reconnaissance-strike complex, or “integrated fires command”, in concert with artillery and other reconnaissance and fires assets. For IR-homing mode, computer loads target image from a satellite or UAV into the warhead. Thus, even when the GNSS or satellite is jammed or weather causes interference, the reentry vehicle will find the target."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Launcher",
+            "sections": [
+                {
+                    "name": "Launcher Performance",
+                    "properties": [
+                        {
+                            "name": "Emplace",
+                            "value": "15.0"
+                        },
+                        {
+                            "name": "Land Navigation",
+                            "value": "GNSS"
+                        },
+                        {
+                            "name": "Position Location System",
+                            "value": "Gyroscopic inertial with GNSS updates"
+                        },
+                        {
+                            "name": "Reaction Time ",
+                            "units": "sec",
+                            "value": "60.0"
+                        },
+                        {
+                            "name": "Time between Launches ",
+                            "units": "min",
+                            "value": "1 to fire second missile"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "properties": [
+                {
+                    "name": "Name",
+                    "value": "R-500"
+                },
+                {
+                    "name": "Notes",
+                    "value": "Cruise missile range is initially 280 km; but near term range is 500 km (est). It has GNSS programmed flight path, <100 m altitude, multiple waypoints, in-flight reprogram ability, a velocity of 250 m/s, and <30-meter accuracy. Terminal guidance options include an IR (correlator) or active radar homing. Production was due 2009. Mid-term upgrade could include a substantial range extension."
+                },
+                {
+                    "name": "Other",
+                    "value": "Cruise missile"
+                },
+                {
+                    "name": "Range ",
+                    "units": "km",
+                    "value": "280 to 500"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Accuracy",
+                            "units": "m",
+                            "value": "5-7 with IR-homing; 10-20 without"
+                        },
+                        {
+                            "name": "Combat Load, per launcher",
+                            "units": "rds",
+                            "value": "2.0"
+                        },
+                        {
+                            "name": "Diameter ",
+                            "units": "mm",
+                            "value": "920.0"
+                        },
+                        {
+                            "name": "Guidance",
+                            "value": "Inertial, with optional GNSS and/or optical/IR-homing.  Additional course correction uses the RADAG radar correlator"
+                        },
+                        {
+                            "name": "Launch Method",
+                            "value": "Vertical launch"
+                        },
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "7.3"
+                        },
+                        {
+                            "name": "Maximum Launch Range ",
+                            "units": "km",
+                            "value": "400/280*"
+                        },
+                        {
+                            "name": "Minimum Launch Range ",
+                            "units": "km",
+                            "value": "50.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Iskander-M/Iskander-E"
+                        },
+                        {
+                            "name": "Other",
+                            "value": "HE, ARM, FAE, ICM cluster munitions (10), ICM (54 submunitions), Nuclear, Chemical, tactical earth penetrator"
+                        },
+                        {
+                            "name": "Trajectory",
+                            "value": "BALLISTIC WITH NON-BALLISTIC BOOST PHASE FLY-OUT, AND POSSIBLE RE-ENTRY MANEUVER"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Single-stage, solid-fuel missile"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "3800.0"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "700/480"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Armor Protection",
+                    "value": "None"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "SS-26, SS-X-26 Iskander-M for Russian forces Iskander-E for export"
+                },
+                {
+                    "name": "Countermeasures",
+                    "value": "Off-road mobility to concealed launch point, autonomous and passive operation at launch point. Missile non-ballistic trajectory in ascent conceals vehicle/launch point location. Missile reentry vehicle has decoys, and possible final-phase maneuver. With IR homing jamming is ineffective. Final phase is most likely non-ballistic pitch-over into a dive."
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1999.0"
+                },
+                {
+                    "name": "Primary Components",
+                    "value": "Transporter-Erector-Launcher (TEL) and command vehicle: rear support includes a transport and loading vehicle (9T250E), maintenance vehicle, mobile test and repair station, data preparation post, and life support vehicle. The system can also be linked into an integrated fires command (IFC)."
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "At least one country. three other countries are considering acquiring the system. Iskander-M is in Russian service."
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Radar TER down ",
+                            "units": "m",
+                            "value": "3.02"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Transporter Erector Launcher",
+            "properties": [
+                {
+                    "name": "Chassis",
+                    "value": "MAZ-7930 (8x8)"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "3.0"
+                },
+                {
+                    "name": "Name",
+                    "value": "SPU 9P78E (MZKT-7930 variant)"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "44.7 est based on chassis"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "12.67"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "3.05"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "SPU 9P78",
+            "notes": "Early TEL variant (SPU 9P78) has one missile. The TELs can launch R-500 cruise missiles."
+        },
+        {
+            "name": "ISKANDER-E",
+            "notes": "Export variant TEL with shorter range (280 km). This missile was developed to comply with the missile technology control regime, which is no longer in effect."
+        },
+        {
+            "name": "ISKANDER-M",
+            "notes": "Domestic TEL and missile with 400+-km range."
+        },
+        {
+            "name": "ISKANDER-K",
+            "notes": "Cruise missile only TEL, with launcher assembly adapted to mount 6x R-500 (3m14?) cruise missiles."
+        }
+    ]
+}

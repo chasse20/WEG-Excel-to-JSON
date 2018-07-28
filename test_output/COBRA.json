@@ -1,0 +1,265 @@
+
+{
+    "notes": "Sources: 2014 WEG and Military Periscope. The number of Cobras operational worldwide is more numerous than listed as most countries that have them have not released their on-hand figures.\n",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "M2HB"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 2",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "12.7 (.50 caliber)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 3",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "Machine Gun\n1000 Rounds:\nBall, Tracer, AP, API, API-T, AP\nHardcore, Multipurpose, SLAP, SLAPT\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Type",
+                    "value": "General Motors V-8, water-\ncooled, turbo-charged diesel\n"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "725.0"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed , Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "115.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "8.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Aselsan 9661"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Weapon 1 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "11 mm at 30° at 1500 m AP; 20 mm at 100 m Ball"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "1000.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "890 M33 Ball; 1215 Tracer"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Day ",
+                            "units": "m",
+                            "value": "1500 AP; 1500 Ball"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Night ",
+                            "units": "m",
+                            "value": "1200 AP; 1200 Ball"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Ball, Tracer, AP, API, API-T, AP Hardcore, Multipurpose, SLAP, SLAPT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Active Protection System",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "INA (against 7.62-mm rounds)"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Yes"
+                },
+                {
+                    "name": "Self-Entrenching Blade",
+                    "value": "No"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "Smoke grenade launchers"
+                },
+                {
+                    "name": "Survivability Equipment",
+                    "value": "Electrical self-recovery winch; fire suppression system"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "None"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1998.0"
+                },
+                {
+                    "name": "Description",
+                    "value": "4 X 4 light armored personnel carrier can carry up to 10 troops besides the crew; 4 side doors, rear door, & 2 roof hatches; 3 firing ports on each\nside of vehicle & 1 in rear door\n"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Azebaijan, Bahrain, Bangladesh, Georgia, Iraq, Kazakhstan, Maldives, Mauritania, Nigeria, Pakistan, Saudi Arabia, Slovenia, Turkey, UAE"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "6.2"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "2.10 (cabin top)"
+                        },
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "5.0 (5.23 with winch)"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "2.2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "APC",
+            "notes": ""
+        },
+        {
+            "name": "Cobra Amphibious Vehicle",
+            "notes": ""
+        },
+        {
+            "name": "NBC Reconnaissance Vehicle",
+            "notes": ""
+        },
+        {
+            "name": "Armored Reconnaissance",
+            "notes": ""
+        },
+        {
+            "name": "Vehicle",
+            "notes": ""
+        },
+        {
+            "name": "Armored C2 Vehicle",
+            "notes": ""
+        },
+        {
+            "name": "Armored Ambulance",
+            "notes": ""
+        },
+        {
+            "name": "TOW Missile Carrier",
+            "notes": ""
+        },
+        {
+            "name": "Cobra EOD Vehicle",
+            "notes": ""
+        },
+        {
+            "name": "Cobra Reconnaissance/Surveillance Vehicle",
+            "notes": ""
+        },
+        {
+            "name": "Cobra Twin-Turret",
+            "notes": ""
+        }
+    ]
+}

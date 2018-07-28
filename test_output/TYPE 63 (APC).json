@@ -1,0 +1,301 @@
+
+{
+    "notes": "Primary information is on the YW 531c, the most likely vehicle to encounter on the battlefield.",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "12.7"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Type 54"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Heavy Machine Gun DShKM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Name",
+                    "value": "BF8L 413F"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "4-cycle, turbocharged, air-\ncooled, V-8 diesel\n"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "500.0"
+                },
+                {
+                    "name": "Range, Amphibious ",
+                    "units": "km",
+                    "value": "60.0"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "17.0"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "40.0"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "66.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "6.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Type 889"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Weapon 1 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "21 at 500 m & 13 at 1000 m\n(RHA) API"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "1120.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "850.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective ",
+                            "units": "m",
+                            "value": "2000.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "APDS (Tungsten Core), API, API-T, Russian Duplex, Russian Duplex-T, Incendiary-T, HE-T, Type MDZ, HeI Type ZP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Active Protection System",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Applique ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Explosive Reactive ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Turret Front Glacis",
+                    "units": "mm",
+                    "value": "14.0"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "No"
+                },
+                {
+                    "name": "Self-Entrenching Blade",
+                    "value": "No"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "No"
+                },
+                {
+                    "name": "Survivability Equipment",
+                    "value": "INA"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "YW 531A, YW 531C \n"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1964.0"
+                },
+                {
+                    "name": "Description",
+                    "value": "Lightly armored APC with exit door in the rear with space for 10 soldiers; 2 firing ports on left side, 1 firing port on right side, & 1 firing port in the rear door (other models vary).\n"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "0.57"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Albania, Bangladesh, Cambodia, China, DRC, Guinea Bissau, Iran, Kurdistan, North Korea, Pakistan, Tanzania, Zimbabwe, "
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "12.6"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "2.85"
+                        },
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "5.48"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "2.98"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "YW 531/Type 63/K-63",
+            "notes": "Original variant with 7.62-mm MG"
+        },
+        {
+            "name": "YW 531D/Type 63D",
+            "notes": "YW 531C, but with only 1 firing port\non the left side & different radio\n"
+        },
+        {
+            "name": "YW 531E/Type 63E",
+            "notes": "YW 531C, but with only 1 firing port\non the left side & 2 radios\n"
+        },
+        {
+            "name": "Type 701",
+            "notes": "With Type 63C, better suited for high\nsea-state amphibious operations\n"
+        },
+        {
+            "name": "YW 750",
+            "notes": "Ambulance for 4 stretcher or 8 seat\npatients\n"
+        },
+        {
+            "name": "YW 701/B",
+            "notes": "Command vehicles with Type 56 7.62-mm MG for self-defense;\nexport model has 12.7-mm AA MG\n"
+        },
+        {
+            "name": "YW 304",
+            "notes": "82-mm M-1937 SP mortar with 120\nrounds & 12.-7-mm AA MG\n"
+        },
+        {
+            "name": "YW 381",
+            "notes": "120-mm SP mortar with 50 rounds"
+        },
+        {
+            "name": "Type 54-1",
+            "notes": "122-mm mobile gun mounted in an\nopen-topped troop compartment\n"
+        },
+        {
+            "name": "Psychological Warfare",
+            "notes": "Variant with roof-mounted speakers"
+        },
+        {
+            "name": "Type 85/YW 531H",
+            "notes": "Latest YW 531 variant with new\nsuspension system, 5 road wheels, & 3 return rollers (see separate entry)\n"
+        },
+        {
+            "name": "YW 531A/Type 63A",
+            "notes": "1968 production model with 12.7-\nmm MG\n"
+        },
+        {
+            "name": "Type 63-1",
+            "notes": "5-road wheel variant for the YW 70-I\n122-mm SP howitzer\n"
+        },
+        {
+            "name": "VTT-323",
+            "notes": "North Korean Type 63-1 (see\nseparate entry)\n"
+        },
+        {
+            "name": "Type 63-2",
+            "notes": "4 X 2 drive APC with gun shield"
+        },
+        {
+            "name": "WZ 701",
+            "notes": "Type 63-2 command vehicle with 7.62-mm MG"
+        },
+        {
+            "name": "Type 70 Rocket Launcher",
+            "notes": "Type 63-2 130-mm (19 tubes) MRL"
+        },
+        {
+            "name": "Anti-Tank Missile Carrier",
+            "notes": "Red Arrow 8 AT launcher with 4-rail\nlauncher & 4 stowed ATGMs\n"
+        },
+        {
+            "name": "YW 531C/Type 63C",
+            "notes": "4 X 2 drive APC with gun shield, better vision ports, improved German KHD diesel engine, & better\nventilation\n"
+        }
+    ]
+}

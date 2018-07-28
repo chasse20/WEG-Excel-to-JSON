@@ -1,0 +1,130 @@
+
+{
+    "notes": "This is a disposable launcher version of the rpg-29. The rpg-27 has a 105-mm tandem warhead similar to that of the pg-7vr (rpg-7v) and that of the pg-29v (rpg-29).",
+    "sections": [
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "1500+ reinforced concrete, 3700 log and dirt"
+                        },
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "750+ behind ERA, 950+ conventional"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "105.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "120.0"
+                        },
+                        {
+                            "name": "Range, Effective ",
+                            "units": "m",
+                            "value": "200.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem-HEAT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sights",
+            "sections": [
+                {
+                    "name": "Night Sights",
+                    "properties": [
+                        {
+                            "name": "Available",
+                            "value": "No"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sights 1",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Notes",
+                            "value": "(Can be used with NVG found\nin Hybrid Threat units).  Other sights\ncan be adapted, such as the\nstrap-on British Ring Sight,\nwith NVG.\n"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Raised iron peep sight"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Tavolga (Meadow Grass)"
+                },
+                {
+                    "name": "Cailber/Length ",
+                    "units": "mm",
+                    "value": "105.0"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "1.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1989.0"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Russia, Syria, Mexican, Iran"
+                },
+                {
+                    "name": "Rate of Fire ",
+                    "units": "rd/min",
+                    "value": "Single-shot disposable"
+                },
+                {
+                    "name": "Weight ",
+                    "units": "kg",
+                    "value": "8.0"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Length, Firing ",
+                            "units": " m",
+                            "value": "1.155"
+                        },
+                        {
+                            "name": "Length, Travel ",
+                            "units": "m",
+                            "value": "1.155"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

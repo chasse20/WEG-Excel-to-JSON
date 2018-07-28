@@ -1,0 +1,206 @@
+
+{
+    "notes": "The 1L245 is mainly used to defeat airborne radar systems and JSTARS. However, it has the capability to and jam ground systems as well.",
+    "sections": [
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Type",
+                    "value": "YaMZ-238, 240hp diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "500 km"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "26.0"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "60.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "4.5"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Combat Net Radios Sets"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Electronic Warfare",
+            "properties": [
+                {
+                    "name": "Type",
+                    "value": "Jamming"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Jamming",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "Noise, Spot Programmed, Range Programmed, Interval Programmed"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Protection",
+                    "value": "Against 5.56 ball 5.56, all- around"
+                }
+            ]
+        },
+        {
+            "name": "Radar",
+            "sections": [
+                {
+                    "name": "Radar Detection and Supression Range",
+                    "properties": [
+                        {
+                            "name": "Polarization of Signals Transmitted",
+                            "value": "Chaotic"
+                        },
+                        {
+                            "name": "Range, Tactical Anti-Air",
+                            "units": "m",
+                            "value": "30 - 100"
+                        },
+                        {
+                            "name": "Reconnaissance Strike System ",
+                            "units": "km",
+                            "value": "80 - 200"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Vstrecha, Ground-Based Weapons Control Radar\nSuppression System\n"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "MT-Lbu"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "3.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1979.0"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "At least 2 countries"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "15.7"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "3.0"
+                        },
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "7.26"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "2.85"
+                        }
+                    ]
+                },
+                {
+                    "name": "Transmitter",
+                    "properties": [
+                        {
+                            "name": "Frequency Range ",
+                            "units": "GHz",
+                            "value": "8 to 18"
+                        },
+                        {
+                            "name": "Output Power ",
+                            "units": "W",
+                            "value": "1000.0"
+                        },
+                        {
+                            "name": "Polarization of signals received",
+                            "value": "Vertical and Horizontal"
+                        },
+                        {
+                            "name": "Polarization of signals received, Horizontal",
+                            "value": "Yes"
+                        },
+                        {
+                            "name": "Polarization of signals received, Sector ",
+                            "units": "deg",
+                            "value": "Combat operation (azimuth x elevation) 120 x 15 ECM with respect to the main radar 2 x 2 directional lobe of the\nreconnaissance strike system\n"
+                        },
+                        {
+                            "name": "Polarization of signals received, Vertical",
+                            "value": "Yes"
+                        },
+                        {
+                            "name": "Pulse linear",
+                            "value": "1 to 25"
+                        },
+                        {
+                            "name": "Simple pulse signals received and analyzed 0.25 – 10 khz",
+                            "units": "micro sec",
+                            "value": "1 to 5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

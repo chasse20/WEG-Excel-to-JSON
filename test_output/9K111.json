@@ -1,0 +1,100 @@
+
+{
+    "sections": [
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "420.0"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "84.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "285.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "AT4 HEAT"
+                        },
+                        {
+                            "name": "Range, Arming ",
+                            "units": "m",
+                            "value": "70.0"
+                        },
+                        {
+                            "name": "Range, Effective ",
+                            "units": "m",
+                            "value": "300.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "ATGM"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "HEAT"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "6.7"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 2",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "150.0"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "84.0"
+                        },
+                        {
+                            "name": "Casualty Radius (est.)",
+                            "units": "m",
+                            "value": "20.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "235.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "LMAW (see VARIANTS)"
+                        },
+                        {
+                            "name": "Range, Arming ",
+                            "units": "m",
+                            "value": "70.0"
+                        },
+                        {
+                            "name": "Range, Effective ",
+                            "units": "m",
+                            "value": "300.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "HEDP (High Explosive Dual Purpose)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

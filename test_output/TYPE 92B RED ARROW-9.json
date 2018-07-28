@@ -1,0 +1,319 @@
+
+{
+    "notes": "THE MISSILE APPEARS TO HAVE BEEN DERIVED FROM THE U.S. TOW MISSILE, WITH UPGRADES IN RANGE, GUIDANCE, AND WARHEAD DESIGN.",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "152.0"
+                        },
+                        {
+                            "name": "Elevation, Maximum ",
+                            "units": "deg",
+                            "value": "10.0"
+                        },
+                        {
+                            "name": "Elevation, Minimum ",
+                            "units": "deg",
+                            "value": "neg 10"
+                        },
+                        {
+                            "name": "Fire on Move",
+                            "value": "No"
+                        },
+                        {
+                            "name": "Loader Type",
+                            "value": "Auto or Manual"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Red Arrow-92"
+                        },
+                        {
+                            "name": "Rate of Fire, Cyclic ",
+                            "units": "rd/min",
+                            "value": "4.0"
+                        },
+                        {
+                            "name": "Rate of Fire, Practical ",
+                            "units": "rd/min",
+                            "value": "3.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "ATGM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "320.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "BF8L413F Diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "800.0"
+                },
+                {
+                    "name": "Speed , Maximum Road ",
+                    "units": "km/h",
+                    "value": "95.0"
+                },
+                {
+                    "name": "Speed, Maximum Cross-Country",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "8.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "INA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "sections": [
+                {
+                    "name": "Day Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "5000.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Low light level TV with auto- tracker, NFI"
+                        }
+                    ]
+                },
+                {
+                    "name": "FCS",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "ATM"
+                        }
+                    ]
+                },
+                {
+                    "name": "Main Gun Stabilization",
+                    "properties": [
+                        {
+                            "name": "Available",
+                            "value": "INA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Night Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "4000.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Thermal Image System, INA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rangefinder",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "Laser rangefinder 10,000m"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Weapon 1 Munition 1",
+                    "properties": [
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "1200, KE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "100.0"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "5000.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem shaped Charge (HEAT)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "37.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "INA"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "No"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "INA"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "WXLZ602B for vehicle. AKA\nRA-9, Hong Jian-9, and HJ-9 \n"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "WZ-550"
+                },
+                {
+                    "name": "Country of Origin",
+                    "value": "China"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "3.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1999.0"
+                },
+                {
+                    "name": "Drive Formula",
+                    "value": "4x4"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "2 countries for vehicles and missile."
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "12.5"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height ",
+                            "units": "m",
+                            "value": "2.8"
+                        },
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "6.63"
+                        },
+                        {
+                            "name": "Width ",
+                            "units": "m",
+                            "value": "2.8"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "Red Arrow-9A",
+            "notes": "MMW-Homing Version - in development. "
+        },
+        {
+            "name": "RED ARROW-9B",
+            "notes": "Semi-Active laser homing - in development."
+        },
+        {
+            "name": "92B",
+            "notes": "A recently shown 4-tube launcher mounts missiles in an armored box.  A single tube launcher was developed for light vehicles. Initial version is on the NJ2046 4x4 light utility vehicle."
+        },
+        {
+            "name": "Single tube launcher",
+            "notes": ""
+        },
+        {
+            "name": "High explosive thermobaric.",
+            "notes": ""
+        },
+        {
+            "name": "The system is only vehicle-mounted. First fielded vehicle is type",
+            "notes": ""
+        }
+    ]
+}

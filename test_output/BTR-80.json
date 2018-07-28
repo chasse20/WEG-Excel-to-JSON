@@ -1,0 +1,602 @@
+
+{
+    "notes": "Sources: ACE-Threats BTR handbook, military periscope, military factory, army recognition. Some analysts and documents list the btr-80a as an IFV, but it lacks sufficient protection to warrant that classification. The modular weapon system is offered for export to upgrade a wide variety of vehicles to a BTR-80A standard. The BTR-80A can mount K1-126 bullet-resistant tires. See separate entry for information on the Kliver turret. See the ace-threats BTR handbook published in 2014 for detailed information on all BTR-60 variants.\n",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "14.5"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "KPVT"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Heavy Machine Gun"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 2",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "7.62"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "PKT"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Turret Coaxial"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 3",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "30.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "2A72 "
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Automatic Gun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "260.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Water-cooled, V-8 diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "600 (800)"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "40.0"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "60.0"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "80.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "10.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "R-173 (R-163-50U VHF, R-163-\nUP receiver, R-174 intercom)\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Weapon 1 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "20 AT 1000 m"
+                        },
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "30 AT 500 m"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "500.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "1005.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Day ",
+                            "units": "m",
+                            "value": "2000.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Night ",
+                            "units": "m",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "API, API-T"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 2 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "8 (RHA) at 500 m"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "2000.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "825.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Day ",
+                            "units": "m",
+                            "value": "1000.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Night ",
+                            "units": "m",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, On the Move ",
+                            "units": "m",
+                            "value": "400-500"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Light Ball, Ball-T, Heavy Ball, API, API-T,\nIncendiary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 3 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "55 mm at 1000 m "
+                        },
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "45 mm at 2000 m (RHA)"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "300.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "960.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Day ",
+                            "units": "m",
+                            "value": "2500.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Night ",
+                            "units": "m",
+                            "value": "2500.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "HEI-T, Frag-HE-T, APT-, APDS-T, APFSDS-T"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Active Protection System",
+                    "value": "NoZS"
+                },
+                {
+                    "name": "Armor, Applique ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Explosive Reactive ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "Defeat 12.7-mm rounds"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Collective"
+                },
+                {
+                    "name": "Self-Entrenching Blade",
+                    "value": "No"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "units": "ea",
+                    "value": "6x 81-mm smoke grenade launchers"
+                },
+                {
+                    "name": "Survivability Equipment",
+                    "value": "No"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "GAZ-5903"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "3.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1984.0"
+                },
+                {
+                    "name": "Description",
+                    "value": "8 X 8 wheeled APC as an upgrade to the BTR-70; 7 soldiers exit through 2 side doors; 4 firing ports on the right & 3 firing ports on the left"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Algeria, Angola, Armenia, Azerbaijan, Bangladesh, Belarus, Burundi, Chad, Colombia, Côte d'Ivoire, Djibouti, Estonia, Georgia, Hungary, Indonesia, Iraq, Kazakhstan, Kyrgyzstan, Macedonia, Moldova, Mongolia, North Korea, Pakistan, Russia, Sri Lanka, Sudan, Syria, Tajikistan, Turkey, Turkmenistan, Uganda, Ukraine, Uzbekistan, and Venezuela."
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "13.6"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "2.45"
+                        },
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "7.7"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "2.95"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "BTR-80 1V152",
+            "notes": "Artillery C2 & forward observation vehicle with navigation, range finding, &\nimproved optics\n"
+        },
+        {
+            "name": "BTR-80 PBKM (KM-80)",
+            "notes": "Command vehicle with increased radio\ncommunications equipment\n"
+        },
+        {
+            "name": "BTR-80S",
+            "notes": "Modernization turret with modular armaments system (14.5-mm KPVT MG),\nbetter fire control system & improved sight\n"
+        },
+        {
+            "name": "BTR-80 with Cummins Diesel",
+            "notes": "Test model with the Western Cummins 6CTA 8.3-C250 diesel engine; road speed to 100 km/h with a range of up to 600 km"
+        },
+        {
+            "name": "BMM-1",
+            "notes": "Battlefield ambulance for immediate first aid & MEDVAC operations"
+        },
+        {
+            "name": "BMM-2",
+            "notes": "Battlefield ambulance for use at the battalion level for field\ntreatment\n"
+        },
+        {
+            "name": "BMM-3",
+            "notes": "Battlefield ambulance used as a\nmobile field hospital\n"
+        },
+        {
+            "name": "BMM-80 (GAZ-59039 or Simfoniya)",
+            "notes": "Battlefield ambulance for 9\nsitting or 2 litter patients\n"
+        },
+        {
+            "name": "BREM-K (GAZ-59033) ARV",
+            "notes": "Armored recovery vehicle with\nA-frame, tow bars, & stabilizers\n"
+        },
+        {
+            "name": "E-351BrM",
+            "notes": "Mobile power station with\ndiesel/electric generator\n"
+        },
+        {
+            "name": "K1Sh1 (GAZ-59032) (UNSH)",
+            "notes": "Command Post variant with an enlarged hull without any\narmament in turret\n"
+        },
+        {
+            "name": "BTR-80 R-975",
+            "notes": "Forward air control vehicle"
+        },
+        {
+            "name": "P-240BTZ",
+            "notes": "Switchboard platform"
+        },
+        {
+            "name": "PU-12M6 (9S482M6)",
+            "notes": "Field Artillery (FA) battery\ncommand vehicle\n"
+        },
+        {
+            "name": "PU-12M7 (9S482MU)",
+            "notes": "Improved PU-12M6 FA battery\ncommand vehicle\n"
+        },
+        {
+            "name": "R-149BMR",
+            "notes": "Signal/Communications vehicle"
+        },
+        {
+            "name": "R-149BM4A",
+            "notes": "Command and Signal Vehicle"
+        },
+        {
+            "name": "R-165B",
+            "notes": "Short-wave signal/ communications vehicle"
+        },
+        {
+            "name": "R-439-BK (Legenda 2BK)",
+            "notes": "Satellite communications vehicle"
+        },
+        {
+            "name": "R-439-BK1",
+            "notes": "Improved R-439-BK satellite\ncommunications vehicle\n"
+        },
+        {
+            "name": "R-439-MD2",
+            "notes": "Satellite communications vehicle"
+        },
+        {
+            "name": "RPM-2 (NKR)",
+            "notes": "Radiological Reconnaissance Vehicle that first appeared in\n2000\n"
+        },
+        {
+            "name": "2S23 (Nona-SVK) SP Gun-\nMortar System (Fire\nSupport Vehicle)\n",
+            "notes": "Breach-loaded 2A60 120-mm rifled mortar/gun system\nsimilar to the 2S9\n"
+        },
+        {
+            "name": "RKhM-4 NBC Reconnaissance Vehicle",
+            "notes": "Outfitted with NBC equipment"
+        },
+        {
+            "name": "BTR-82/BTR-82A (Russia & Kazakhstan)",
+            "notes": "Modernization of existing vehicles with the 2A72 30-mm automatic cannon; air conditioning, digital GPS navigation, & better fire control; 300-hp engine, likely\nnear-term Russian APC\n"
+        },
+        {
+            "name": "BTR-80UP (Ukraine)",
+            "notes": "BTR-80 with 300-hp engine, improved armor protection & air conditioning"
+        },
+        {
+            "name": "BTR-80UP-KB (Ukraine)",
+            "notes": "Battalion level command vehicle"
+        },
+        {
+            "name": "BTR-80UP-KR (Ukraine)",
+            "notes": "Company level command vehicle"
+        },
+        {
+            "name": "BTR-80UP-S (Ukraine)",
+            "notes": "Staff vehicle"
+        },
+        {
+            "name": "BTR-80UP-M (Ukraine)",
+            "notes": "Battlefield ambulance"
+        },
+        {
+            "name": "BTR-80UP BREM (Ukraine)",
+            "notes": "ARV"
+        },
+        {
+            "name": "BTR-80UP-R (Ukraine)",
+            "notes": "Dedicated reconnaissance vehicle"
+        },
+        {
+            "name": "BTR-80UP-T (Ukraine)",
+            "notes": "Dedicated cargo transport variant"
+        },
+        {
+            "name": "BMM",
+            "notes": "Medical series with BMM-1 (ambulance), BMM-2 (Battalion Aid Station), & BMM-3 (Brigade\nMedical Aid Station)\n"
+        },
+        {
+            "name": "KShM Kushetka-B (Ukraine)",
+            "notes": "Command vehicle based on the K1Sh1"
+        },
+        {
+            "name": "BTR-94 (Ukraine)",
+            "notes": "Amphibious armored car with twin 23-mm\n2A7M guns (same guns as the ZSU-23-4)\n"
+        },
+        {
+            "name": "BTR-3U/Okhotnik (Guardian) (Ukraine)",
+            "notes": "2001 BTR-94 upgrade with a Shkval 1-man turret with 30-mm gun, twin AT-5 ATGM launchers, 30-mm AGL, & a 7.62-mm MG. Jordanian version uses a twin 23-mm gun &\ndonated to the new Iraqi armed forces\n"
+        },
+        {
+            "name": "BTR-3E1 (Ukraine)",
+            "notes": "Export version of the BTR-3U with the Shturm turret; 30-mm ZTM cannon, a 40- mm AGL, & a 7.62-mm MG & a twin-\nlauncher for the Barrier AT missile system\n"
+        },
+        {
+            "name": "BTR-4 (Ukraine)",
+            "notes": "Soldiers enter & leave the vehicle through rear doors; Grom overhead weapons station with 30-mm automatic cannon, 7.62-mm coaxial machine gun, & up to 4 9P135M Konkurs or Baryer AT missiles, & one 30-\nmm AGL on the left side of the turrret\n"
+        },
+        {
+            "name": "BTR-80 GKKO (Hungary)",
+            "notes": "Proposed vehicle with additional\nobservation equipment, but no turret\n"
+        },
+        {
+            "name": "BTR-80M (Hungary)",
+            "notes": "1993 Improvement with 240-hp DMZ- 238M2 series engine"
+        },
+        {
+            "name": "BTR-80 MPAEJ (Hungary",
+            "notes": "Battlefield engineer variant without turret"
+        },
+        {
+            "name": "BTR-80 MPFJ (Hungary)",
+            "notes": "Obstacle clearance vehicle without\narmament\n"
+        },
+        {
+            "name": "RKhM-4-01",
+            "notes": "Improved/modernized RKhM-4\nNBC vehicle\n"
+        },
+        {
+            "name": "BTR-80 (GAZ-5903)",
+            "notes": "Original with 3 firing ports on each side &\nsmoke grenade launchers\n"
+        },
+        {
+            "name": "RKhM-4-02",
+            "notes": "Upgraded RKhM-4 NBC\nreconnaissance vehicle\n"
+        },
+        {
+            "name": "SPR-2 Wide Band Jamming System",
+            "notes": "Turretless vehicle with large telescopic antenna designed to neutralize artillery shells with\nproximity fuses\n"
+        },
+        {
+            "name": "UNSh",
+            "notes": "Standardized name for expanded chassis for some current variants such as the\nKusheta-B, ACRV, & BMM\n"
+        },
+        {
+            "name": "“Tajfun”",
+            "notes": "Prototype proposed for base security forces with a 7.62-mm\nMG & the Kredo-1 radar\n"
+        },
+        {
+            "name": "ZS-88",
+            "notes": "With loudspeakers for PSYOP\noperations and riot control\n"
+        },
+        {
+            "name": "ZS-96",
+            "notes": "Another PSYOP variant with\nloudspeakers\n"
+        },
+        {
+            "name": "Kliver Turret System",
+            "notes": "Prototype with the Kliver turret\nmounted on the BTR-80 (see separate entry)\n"
+        },
+        {
+            "name": "BTR-80 MVJ (Hungary)",
+            "notes": "ARV"
+        },
+        {
+            "name": "BTR-80 SKJ (Hungary)",
+            "notes": "Battlefield ambulance variant with enlarged\npassenger compartment\n"
+        },
+        {
+            "name": "BTR-80 VSF (Hungary)",
+            "notes": "NBC reconnaissance vehicle"
+        },
+        {
+            "name": "BTR-80A (GAZ-59034)",
+            "notes": "Upgraded model with stabilized turret with 2A72 gun, 7.62-mm coaxial machine gun, &\nadditional firing port on the right side\n"
+        },
+        {
+            "name": "TAB Zimbru (B33) (Romania)",
+            "notes": "BTR-80 with 268-hp Model 1240 V8-DTS series engine, Romanian radios, & additional 12.7-mm ammunition storage"
+        },
+        {
+            "name": "Zimbru 2000 (Romania)",
+            "notes": "Proposed improved TAB Zimbru with enlarged hull & 285-hp engine"
+        },
+        {
+            "name": "Saur 1 (Romania)",
+            "notes": "2006 prototype with 275-hp Cummins\nengine, rear entry/exit doors & new turret\n"
+        },
+        {
+            "name": "Saur 2 (Romania)",
+            "notes": "Improved Saur 1 prototype"
+        },
+        {
+            "name": "BTR-80 “Caribe” (Columbia)",
+            "notes": "Columbian designation for BTR-80 with 12.7-mm machine gun"
+        },
+        {
+            "name": "BTR-80AK",
+            "notes": "BTR-80A CP  variant with 1 firing port on\nright side & 2 whip antennas at rear corners\n"
+        },
+        {
+            "name": "BTR-80K (GAZ-59031)",
+            "notes": "Command Post with crew of 6; different turret with 14.5-mm & 7.62-mm guns & 3\nradios (R-173, R-173P & R-159)\n"
+        },
+        {
+            "name": "BTR-80 Kushetka-B (M1989/1)",
+            "notes": "Command vehicle with additional communications gear & gun removed"
+        }
+    ]
+}

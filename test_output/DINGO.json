@@ -1,0 +1,255 @@
+
+{
+    "notes": "Sources: 2014 WEG and Military Periscope. Other variants can mount a 12.7-mm machine gun or the 40- mm automatic grenade launcher.",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "7.62"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Rheinmetall"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Machine Gun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "215.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "PS/EAS transmission"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "1.0"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "1000 (700-Large volume)"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed , Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "100.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "INA (As needed by customer)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Weapon 1 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Day ",
+                            "units": "m",
+                            "value": "1500.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Night ",
+                            "units": "m",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Type",
+                            "value": " Ball, Tracer, AP, API, API-T, AP Hardcore, Multipurpose, SLAP, SLAPT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Active Protection System",
+                    "value": "INA"
+                },
+                {
+                    "name": "Armor, Applique ",
+                    "units": "mm",
+                    "value": "INA"
+                },
+                {
+                    "name": "Armor, Explosive Reactive ",
+                    "units": "mm",
+                    "value": "INA"
+                },
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "Against hand-hand weapons & artillery fragments to 155-mm"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Yes"
+                },
+                {
+                    "name": "Self-Entrenching Blade",
+                    "value": "No"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "INA"
+                },
+                {
+                    "name": "Survivability Equipment",
+                    "value": " Double hull against fragments & internal belly pan against mines"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Multi-Purpose Protected\nVehicle (MPPV) (Belgium)\n"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "2004.0"
+                },
+                {
+                    "name": "Description",
+                    "value": "Modular design 4 X 4 APC with space for 6 soldiers; 4 sides doors with rear storage area;\nno firing ports\n"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "German, Belgium, Luxembourg, AUstria, Czech Republic, Norway, Iraq, Qatar"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "12.5 + payload"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "2.6"
+                        },
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "5.5"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "2.4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "Dingo 2 Short",
+            "notes": ""
+        },
+        {
+            "name": "Dingo 2 GSI",
+            "notes": ""
+        },
+        {
+            "name": "Dingo 2 ARV",
+            "notes": ""
+        },
+        {
+            "name": "Dingo 2 Long",
+            "notes": ""
+        },
+        {
+            "name": "Dingo 2 Large Volume",
+            "notes": ""
+        },
+        {
+            "name": "Dingo HD",
+            "notes": ""
+        },
+        {
+            "name": "Dingo 2 NBC",
+            "notes": ""
+        },
+        {
+            "name": "Dingo 2 GSR",
+            "notes": ""
+        },
+        {
+            "name": "Dingo 2 Patrol",
+            "notes": ""
+        },
+        {
+            "name": "Dingo 2 Ambulance",
+            "notes": ""
+        },
+        {
+            "name": "Dingo 2 Pick Up",
+            "notes": ""
+        }
+    ]
+}

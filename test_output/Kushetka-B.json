@@ -1,0 +1,389 @@
+
+{
+    "notes": "The vehicle shares the same configuration as BMM medical vehicles and the 1V152/Kapustnik-B ACRV. Other less similar users of the UNSH/1KSH1 chassis include the BREM-K recovery vehicle and several radio and IW vehicles.",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "7.62"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "PKM"
+                        },
+                        {
+                            "name": "Rate of Fire, Cyclic ",
+                            "units": "rd/min",
+                            "value": "650, 2-10 round bursts"
+                        },
+                        {
+                            "name": "Rate of Fire, Practical ",
+                            "units": "rd/min",
+                            "value": "250, 2-10 round bursts"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Machine Gun"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 2",
+                    "properties": [
+                        {
+                            "name": "Loader Type",
+                            "value": "Belt-feed (100-rd belts)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 3",
+                    "properties": [
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "INA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 4",
+                    "properties": [
+                        {
+                            "name": "Elevation ",
+                            "units": "deg",
+                            "value": "INA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 5",
+                    "properties": [
+                        {
+                            "name": "Fire on Move",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 6",
+                    "properties": [
+                        {
+                            "name": "Firing Ports",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "260.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "600.0"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "UNK"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "UNK"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "UNK"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "UNK"
+                }
+            ]
+        },
+        {
+            "name": "Command",
+            "properties": [
+                {
+                    "name": "Command",
+                    "value": "Normal configuration for rear compartment has 2 officer workstations and two radio\noperator consoles.\n"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio 1",
+                    "properties": [
+                        {
+                            "name": "Frequency Band",
+                            "value": "VHF"
+                        },
+                        {
+                            "name": "Frequency Range ",
+                            "units": "MHz",
+                            "value": "30-80"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "R-173M"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "km",
+                            "value": "20.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Radio 2",
+                    "properties": [
+                        {
+                            "name": "Frequency Band",
+                            "value": "VHF"
+                        },
+                        {
+                            "name": "Frequency Range ",
+                            "units": "MHz",
+                            "value": "30-75"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "R-171M"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "km",
+                            "value": "35-80"
+                        }
+                    ]
+                },
+                {
+                    "name": "Radio 3",
+                    "properties": [
+                        {
+                            "name": "Frequency Band",
+                            "value": "VHF"
+                        },
+                        {
+                            "name": "Frequency Range ",
+                            "units": "MHz",
+                            "value": "30-80"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "R-163-50, R-163 UP"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "km",
+                            "value": "20-60"
+                        }
+                    ]
+                },
+                {
+                    "name": "Radio 4",
+                    "properties": [
+                        {
+                            "name": "Frequency Band",
+                            "value": "HF/VHF"
+                        },
+                        {
+                            "name": "Frequency Range ",
+                            "units": "MHz",
+                            "value": "20-30"
+                        },
+                        {
+                            "name": "Name",
+                            "value": " R-163-10V"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "km",
+                            "value": "10 to 30"
+                        }
+                    ]
+                },
+                {
+                    "name": "Radio 5",
+                    "properties": [
+                        {
+                            "name": "Frequency Band",
+                            "value": "R-163-1V"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "8 (RHA) at 500 m"
+                        },
+                        {
+                            "name": "Range, Maximum Aimed ",
+                            "units": "m",
+                            "value": "1500.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Anti-Aircraft",
+                            "units": "m",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Day ",
+                            "units": "m",
+                            "value": "1000.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Night ",
+                            "units": "m",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, On the Move ",
+                            "units": "m",
+                            "value": "400-500"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "API, API-T"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Armor, Turret Front ",
+                    "value": "Against 12.7-mm rounds"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Collective"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "VEESS, 6 x 81-mm smoke grenade launchers"
+                }
+            ]
+        },
+        {
+            "name": "Sights",
+            "properties": [
+                {
+                    "name": "Magnification",
+                    "value": "1500.0"
+                },
+                {
+                    "name": "Sighting Range ",
+                    "units": "m",
+                    "value": "INA"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Night Sights",
+                    "properties": [
+                        {
+                            "name": "Available",
+                            "value": "Yes"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "R-149BMR"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "K1Sh1 version UnSh wheeled 8 X 8 derived from BTR-80"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "1 plus vehicle/staff commander (included below)"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1990s"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "At least 1 country"
+                },
+                {
+                    "name": "Troop Capacity ",
+                    "units": "ea",
+                    "value": "Staff 4-6 (total vehicle capacity 5-7)"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "13 (est)"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "2.63"
+                        },
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "7.65"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "2.9"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

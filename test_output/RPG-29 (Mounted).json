@@ -1,0 +1,220 @@
+
+{
+    "notes": "Rpg-29 mounted, like its predecessor, spg-9, serves as all-purpose small unit artillery - to deliver supporting fires against the gamut of targets (including vehicles, personnel, buildings, and any other direct-fire targets within range - including helicopters).",
+    "sections": [
+        {
+            "name": "Armament",
+            "properties": [
+                {
+                    "name": "Displacement Time ",
+                    "units": "min",
+                    "value": "less than 0.25"
+                },
+                {
+                    "name": "Emplacement Time ",
+                    "units": "min",
+                    "value": "less than 0.25"
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "750+ behind ERA, 950+ conventional"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "105.0"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "105.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "280.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "PG-29V (in canister/launch tube\nextension)"
+                        },
+                        {
+                            "name": "Penetration, Other ",
+                            "units": "mm CE",
+                            "value": "1,500+ concrete and brick, 2000 brick, 3000 earth"
+                        },
+                        {
+                            "name": "Range, Effective ",
+                            "units": "m",
+                            "value": "800.0"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "6.7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sights",
+            "sections": [
+                {
+                    "name": "Sights 1",
+                    "properties": [
+                        {
+                            "name": "Location",
+                            "value": "Left side"
+                        },
+                        {
+                            "name": "Magnification",
+                            "value": "1x/3.5x"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Simrad IS2000 or similar EO sight for RPG-29 Mounted"
+                        },
+                        {
+                            "name": "Sighting Range ",
+                            "units": "m",
+                            "value": "800.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "LRF-based FCS with ballistic computer"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sights 2",
+                    "properties": [
+                        {
+                            "name": "Location",
+                            "value": "Left side"
+                        },
+                        {
+                            "name": "Magnification",
+                            "value": "1x/3.5x"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "KN250F or similar sight for RPG-29 Mounted"
+                        },
+                        {
+                            "name": "Other",
+                            "value": "A variety can be used. 1st was the heavy 2Ts35 (3kg)."
+                        },
+                        {
+                            "name": "Sighting Range ",
+                            "units": "m",
+                            "value": "600-800 for vehicle targets; 300+ man"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "3 gen II clip-on sight designed to work with day sight"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Vampir. This is the pintle mount version of the launcher. When tripod-mounted version was first seen, and was known to be a replacement for SPG-9, it was incorrectly dubbed “SPG-10”. For other versions, see Variants."
+                },
+                {
+                    "name": "Barrel Life ",
+                    "units": "rds ",
+                    "value": "300.0"
+                },
+                {
+                    "name": "Cailber/Length ",
+                    "units": "mm",
+                    "value": "105, tube"
+                },
+                {
+                    "name": "Country of Origin",
+                    "value": "Russia"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1980s"
+                },
+                {
+                    "name": "Deployment",
+                    "value": "The pintel permits the launcher to attach to a tripod ground mount or a vehicle mount. The RPG-29 mounted breaks down into 3/4 parts for one soldier carry (launcher, grenade/canister rear section, tripod, and perhaps, sight). It is read to fire within a few seconds with quick connect couplines. A folding bipod on the canister can assist aiming during prone firing. Fire means smoke and noise; but a low profile permits loading and firing while prone. Often it will be used in combined arms ambushes."
+                },
+                {
+                    "name": "Fire from Inside Building",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Russia, Czech Republic, Bulgaria, Brazil, Cuba, Iran, Mexico, Pakistan, Syria, Ukraine, Vietnam, Hezbollah"
+                },
+                {
+                    "name": "Rate of Fire ",
+                    "units": "rd/min",
+                    "value": "4 to 6"
+                },
+                {
+                    "name": "Weight",
+                    "units": "kg",
+                    "value": "11.5 (without sight, launch tube, sight, and canister); 20 on the tripod"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Length, Firing ",
+                            "units": " m",
+                            "value": "1850, with grenade canister\nattached\n"
+                        },
+                        {
+                            "name": "Length, Transport ",
+                            "units": "m",
+                            "value": "1 w/o rear section/canister"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "RPG-29 Mounted",
+            "notes": "Mounted crew-served launcher variant, designed to replace SPG-9. It can fit on a vehicle with a pintle mount, or be dismounted to a tripod ground mount. The RPG-29 Mounted has a fire control system with an optical sight, laser rangefinder and ballistic data computer for increase range and precision. This increases the effective range of the mounted system to 800 m against a stationary target with a probability of 80%. The system can fire at all targets to maximum range (even moving, with reduced Ph). For Tier 1 and Tier2 COE Hybrid Threat, RPG-29 Mounted is the crew weapon in Weapons Squads and other supporting tactical units. "
+        },
+        {
+            "name": "RPG-32/Hashim",
+            "notes": "Russian Bazalt and Jordanian KADDB squad launcher (see RPG-29, pg 2-37). They jointly developed a lighter 105 mm shoulder launcher, for infantry squad use. Loaded, it weighs 7 kg, with a length of\n1.2 m. It can also launch a variety of smaller 72.5 mm grenades. There is also a vehicle remote weapons station with 7.62-mm MG, Hashim launcher, and thermal sight. An upgrade is due in 2010, to add “precision” for increased range and 80% P-hit"
+        },
+        {
+            "name": "Shoulder launched RPG-29",
+            "notes": "Has an optical sight similar to RPG-7V. The RPG-29 could become a standard squad ATGL for maneuver squads; but weight and large size are problems. The launcher, even stripped down for shoulder launch, is almost 2m long considered to be fairly burdomsome and ungainly for use with infantry attempting to move in close quarters or dense cover, and set up quickly to fire."
+        },
+        {
+            "name": "The RPG-29 comes in several versions.",
+            "notes": ""
+        }
+    ]
+}

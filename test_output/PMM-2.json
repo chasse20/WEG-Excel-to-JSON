@@ -1,0 +1,174 @@
+
+{
+    "notes": "The PMM-2 replaces the GSP and has one main advantage as a ferry over the GSP: whereas two GSP half-ferries must be joined together to produce one ferry with a capacity of 50 metric tons, one PMM-2 can handle approximately the same capacity–eight PMM-2 vehicles can form eight separate ferries or four large ferries (85- ton capacity). The PMM-2 bears great similarity to the PTS-2 tracked amphibian, with its cab and boat-like bow. The chassis is similar to that of the MT-T artillery prime mover, with seven road wheels and four return rollers. When unfolded the PMM-2 creates a raft that can carry a main battle tank without further assistance or construction. While two systems can be combined to form an 85-ton capable ferry, the PMM-2 does not form float bridges. On top of the hull, the system has two large box pontoons carried one atop the other. They are hinged to hydraulically unfold to either side of the hull for water operations. Small tread way ramps are folded on the pontoons.  The unfolded pontoons have wave deflectors, as well as ramps to expedite the loading and unloading of vehicles. Airdrop/air transportable: No. Minimum operating depth (m): 1.3. Ground clearance (m): .4. Approach angle: 25. Departure angle: 25",
+    "sections": [
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Name",
+                    "value": "V-64-4 V-12"
+                },
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "710.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "1.2"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "500.0"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "55.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Vertical Step ",
+                    "units": "m",
+                    "value": "2.8"
+                }
+            ]
+        },
+        {
+            "name": "Bridge",
+            "properties": [
+                {
+                    "name": "Capacity ",
+                    "units": "mt",
+                    "value": "42.5"
+                },
+                {
+                    "name": "Deck Length Opened One",
+                    "units": " m",
+                    "value": "10.0"
+                },
+                {
+                    "name": "Deck Width Opened ",
+                    "units": "m",
+                    "value": "4.2"
+                },
+                {
+                    "name": "Emplacement Time ",
+                    "units": "min",
+                    "value": "5 (est)"
+                },
+                {
+                    "name": "Loading Ramps (2) width ea ",
+                    "units": "m",
+                    "value": "5.0"
+                },
+                {
+                    "name": "Obstacle Gap ",
+                    "units": "m",
+                    "value": "20.0"
+                },
+                {
+                    "name": "Type",
+                    "value": "SP Ferry"
+                },
+                {
+                    "name": "Variants",
+                    "value": "Amphibious Bridging System- Wheeled (ABS-W)"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "R-173 and R-134"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "None"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "Based on amphibious version of the Kharkov T-64 (same as MT-T transporter,       PTS-2       tracked amphibian)"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "3.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1983.0"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "At least four countries."
+                },
+                {
+                    "name": "Troop Capacity ",
+                    "units": "ea",
+                    "value": "INA"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "36.0"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "3.85"
+                        },
+                        {
+                            "name": "Length, Overall ",
+                            "units": "m",
+                            "value": "13.5"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "3.5 / 10.5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

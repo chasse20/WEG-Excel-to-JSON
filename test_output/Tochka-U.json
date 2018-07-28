@@ -1,0 +1,296 @@
+
+{
+    "notes": "System also represents other modern TBMS, which could threaten US Army forces. This is the tier 2 system for use in Hybrid Threat portrayal in army training simulations (see pg 1-5). In later Hybrid Threat time frames, (near term and mid-term); the Tochka-U improved will include other option, such as biological warfare and non-nuclear EMP warheads",
+    "sections": [
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "300.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Diesel"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "650.0"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "30.0"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "60.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "8.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "R-123, R-124 on TEL"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "sections": [
+                {
+                    "name": "Fire Control Computer",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "Automated fire control system can be used as the battle management system for a Reconnaissance- Strike Complex (RSC), or “Integrated Fires Command” (IFC), in concert with artillery and other reconnaissance and fires/strike assets. For IR-homing mode, computer loads target image from a satellite or UAV into the warhead. Thus, even when the GPS or satellite is jammed or weather causes interference, the reentry vehicle will find the target."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Launcher",
+            "sections": [
+                {
+                    "name": "Launcher Performance",
+                    "properties": [
+                        {
+                            "name": "Displacement Time ",
+                            "units": "min",
+                            "value": "1.5"
+                        },
+                        {
+                            "name": "Emplace",
+                            "value": "16.0"
+                        },
+                        {
+                            "name": "Land Navigation",
+                            "value": "GNSS for command "
+                        },
+                        {
+                            "name": "Position Location System",
+                            "value": "Inertial with GNSS updates"
+                        },
+                        {
+                            "name": "Time between Launches ",
+                            "units": "min",
+                            "value": "40.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "properties": [
+                {
+                    "name": "Other",
+                    "value": "Frag-HE, cluster munition (50 APAM-size submunitions). Other warheads claimed to be available are: FAE, ICM DPICM, nuclear (10 kt and 100 kt), EMP, and chemical."
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Accuracy",
+                            "units": "m",
+                            "value": "5-10 IR-Homing, or passive radar homing; 10 without homing guidance."
+                        },
+                        {
+                            "name": "Combat Load, per launcher",
+                            "units": "rds",
+                            "value": "1.0"
+                        },
+                        {
+                            "name": "Diameter ",
+                            "units": "mm",
+                            "value": "650.0"
+                        },
+                        {
+                            "name": "Fuze Type",
+                            "value": "Laser proximity"
+                        },
+                        {
+                            "name": "Guidance",
+                            "value": "Inertial, with IR-Homing for Frag-HE. Other homing guidance for other munitions."
+                        },
+                        {
+                            "name": "Launch Method",
+                            "value": "Vertical launch"
+                        },
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "6.4"
+                        },
+                        {
+                            "name": "Maximum Launch Range ",
+                            "units": "km",
+                            "value": "120.0"
+                        },
+                        {
+                            "name": "Minimum Launch Range ",
+                            "units": "km",
+                            "value": "20.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "9M79-1F/SS-21 Mod 3"
+                        },
+                        {
+                            "name": "Trajectory",
+                            "value": "Ballistic with non-ballistic boost phase fly-out, and re-entry maneuver for homing missiles"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Frag-HE"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Single-stage, solid-fuel"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "482.0"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "2010.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Armor Protection",
+                    "value": "None"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Yes"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "System with 120 km was called the SS-21 Mod 2/9K79M (see VARIANTS).  For  Tier  2  use SS-21\nMod 3.\n"
+                },
+                {
+                    "name": "Countermeasures",
+                    "value": "Off-road move to concealed launch point. Likely autonomous and passive operation at launch point. Non-ballistic trajectory on ascent conceals vehicle launch point location. APU for minimum IR/noise. Erect-to-Launch time: 15 sec."
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1989 for Tochka-U"
+                },
+                {
+                    "name": "Primary Components",
+                    "value": "Battery has 2 x TELs, 2 x 9T128-1 Transloaders, and a C2 vehicle. Rear support includes test vehicles, missile transporters, and maintenance vehicles. The system can also be linked into an Integrated Fires Command (IFC). A MET unit with end tray / RMS-radar and radiosonde balloons provides updated weather reports."
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "At least 3 countries Tochka-U.  At least 11 countries all variants. "
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Radar TER down ",
+                            "units": "m",
+                            "value": "2.4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Transporter Erector Launcher",
+            "properties": [
+                {
+                    "name": "Chassis",
+                    "value": "BAZ-5921 (6x6)"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "3.0"
+                },
+                {
+                    "name": "Name",
+                    "value": "9P129M-1"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "18.3 loaded"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "9.5"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "2.8"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "SS-21MOD 1/9K79M/Tochka",
+            "notes": "First fielded system in 1976, with 70-km range, 150 m CEP. "
+        },
+        {
+            "name": "SS-21 MOD 2",
+            "notes": "System with the 120-km 9M79M-F Frag-HE missile. CEP is 20-50 m."
+        },
+        {
+            "name": "Tochka-U/SS-21 MOD 3",
+            "notes": "Improved system (see primary components) with TEL, Nav, and survey system and new missiles. They include 9M79-1F, the Tochka-R, and others (below)."
+        },
+        {
+            "name": "Tochka-R",
+            "notes": "Missile for SS-21 mod 3 with ARM (anti-radiation homing missile), which launches on a non-ballistic trajectory, then targets radars."
+        },
+        {
+            "name": "Export Missile",
+            "notes": "An export missile can switch warheads between unitary Frag-HE and APAM cluster. There are reports of tests with 2-missile versions with 180-km range."
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+
+{
+    "notes": "The Armrest is a preloaded, disposable, shoulder-fired antitank weapon. It has a low signature and low IR (infrared) detectability and can be safely fired from small enclosures or rooms. The muzzle does not emit smoke or blast and no flash can be seen from the rear. Only .8 m clearance is required between the rear of the weapon and the wall. It is quieter than a pistol shot. The entire weapon is considered a round of ammunition and the launcher is thrown away once the weapon is fired. The system is also manufactured by Singapore industries.",
+    "sections": [
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "300.0"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "67.0"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "NA"
+                        },
+                        {
+                            "name": "Flight Time 300m",
+                            "units": "sec",
+                            "value": "1.5"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "210.0"
+                        },
+                        {
+                            "name": "Range, Effective ",
+                            "units": "m",
+                            "value": "400.0"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "1500.0"
+                        },
+                        {
+                            "name": "GrenadeType",
+                            "value": "HEAT"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sights",
+            "sections": [
+                {
+                    "name": "Night Sights",
+                    "properties": [
+                        {
+                            "name": "Night Sights Available",
+                            "value": "Yes"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sights 1",
+                    "properties": [
+                        {
+                            "name": "Location",
+                            "value": "Left Side"
+                        },
+                        {
+                            "name": "Magnification",
+                            "value": "None"
+                        },
+                        {
+                            "name": "Sighting Range ",
+                            "units": "m",
+                            "value": "300.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Reflex"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Crossbow"
+                },
+                {
+                    "name": "Cailber/Length ",
+                    "units": "mm",
+                    "value": "67.0"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "1.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1970.0"
+                },
+                {
+                    "name": "Fire from Inside Building",
+                    "value": "Yes"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Albania, Belgium, Brunei,\nCambodia, Chile, Croatia, Germany, Indonesia, Kosovo, Mauritius, the Philippines, Singapore,\nand Slovenia"
+                },
+                {
+                    "name": "Weight ",
+                    "units": "kg",
+                    "value": "6.3"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "0.85"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

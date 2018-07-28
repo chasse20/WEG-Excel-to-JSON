@@ -1,0 +1,409 @@
+
+{
+    "notes": "French SNPE explosive reactive armor can be employed on AMX-10 type vehicles, but they then lose their swim capability.",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Command Link",
+                            "value": "Wire"
+                        },
+                        {
+                            "name": "Elevation, Maximum ",
+                            "units": "deg",
+                            "value": "18.0"
+                        },
+                        {
+                            "name": "Elevation, Minimum ",
+                            "units": "deg",
+                            "value": "-12.0"
+                        },
+                        {
+                            "name": "Fire on Move",
+                            "value": "None"
+                        },
+                        {
+                            "name": "Guidance",
+                            "value": "SACLOS"
+                        },
+                        {
+                            "name": "Launch Method",
+                            "value": "Lancelot 3 turret"
+                        },
+                        {
+                            "name": "Loader Type",
+                            "value": "Manual"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "HOT"
+                        },
+                        {
+                            "name": "Rate of Fire, Cyclic ",
+                            "units": "rd/min",
+                            "value": "4.0"
+                        },
+                        {
+                            "name": "Rate of Fire, Practical ",
+                            "units": "rd/min",
+                            "value": "3.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "ATGM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "300.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "600.0"
+                },
+                {
+                    "name": "Speed , Maximum Road ",
+                    "units": "km/h",
+                    "value": "65.0"
+                },
+                {
+                    "name": "Speed, Maximum Cross-Country",
+                    "units": "km/h",
+                    "value": "35.0"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "7.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "VHF and intercom"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "properties": [
+                {
+                    "name": "Beacon or Tracker Type",
+                    "value": "INA"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Day Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Field of View ",
+                            "units": "deg",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Magnification",
+                            "value": "3x-12x"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "M509"
+                        }
+                    ]
+                },
+                {
+                    "name": "FCS",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "INA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Infrared Searchlight",
+                    "properties": [
+                        {
+                            "name": "Available",
+                            "value": "INA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Night Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Field of View ",
+                            "units": "deg",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Castor Thermal"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rangefinder",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "M427"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "HOT"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "800, CE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "4000.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "80.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Shaped Charge (HEAT)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "32.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 2",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "HOT 2"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "1250, CE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "4300.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "75.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem shaped Charge (HEAT)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "32.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 3",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "HOT 3"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "1250, CE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "4300.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "75.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem shaped Charge (HEAT)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "32.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Armor, Applique ",
+                    "units": "mm",
+                    "value": "Passive upgrade in some variants"
+                },
+                {
+                    "name": "Armor, Reactive ",
+                    "units": "mm",
+                    "value": "INA"
+                },
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "12.7"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Collective"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "3 smoke grenade launchers"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Chassis",
+                    "value": "AMX-10P"
+                },
+                {
+                    "name": "Country of Origin",
+                    "value": "FRA"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "4.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Saudi Arabia"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "14.1"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height ",
+                            "units": "m",
+                            "value": "2.57"
+                        },
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "5.78"
+                        },
+                        {
+                            "name": "Width ",
+                            "units": "m",
+                            "value": "2.78"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "German Jaguar 1 Launcher Vehicle ",
+            "notes": "1 launcher vehicle is an upgraded version of the Raketenjagdpanzer 2 vehicle, which launched SS-11 ATGMs, then fitted with a single-tube hot launcher. These vehicles were all derived from the reliable and highly mobile Leopard 1 tank chassis."
+        },
+        {
+            "name": "French-produced VAB HOT",
+            "notes": "Uses a Mephisto retractable twin-tube launcher, and has an onboard load of 10 HOT ATGMs."
+        },
+        {
+            "name": "UTM800 Turret",
+            "notes": "Holds 4x HOT missiles, with a stabilized sight and castor thermal night sight. The turret is used in two systems. The French VCR/TH employs the turret on a Panhard VCR/TT 6 x 6 APC chassis. The other is the UTM turret on a VAB APC chassis."
+        },
+        {
+            "name": "Updated launcher for HOT-3 ",
+            "notes": "For HOT-3 offers a thermal modular system night sight and a dual band tracker. The ATM launcher, shown on the next page, can fit a variety of vehicles and launch HOT missiles or mount a combination of missiles and guns"
+        },
+        {
+            "name": "The AMX-10 HOT constitutes a high-end application on that spectrum, and has not been widely proliferated. The Lancelot turret used on AMX-10 HOT can be mounted on other armored fighting vehicles. The HOT antitank guided missile can be launched from a ground launcher. The Cruciform-based single-tube ground launcher system exceeds the weight limit for the portable class of ATGM launchers. Thus, it will rarely be dismounted. However, the launcher can be mounted on a variety of vehicles. Most use a simple pintle mount. The single-tube dismountable hot firing station can be fitted on light vehicles such as the VBL. Thus, the Hybrid Threat tier 2 battalion ATGM launcher was previously a HOT-3 pintle mount version on the VBL. It has also been fitted on infantry fighting vehicles and ATGM launcher vehicles, and helicopters. Alternate mounts for the launcher include the Atlas/Commando lightweight launcher (140 kg) mounted on the Spanish Santana (4 x 4 Land Rover light truck). The turret can be mounted on the VBR chassis, which permits easier carry of the larger HOT missile than for its predecessor, the VBL.",
+            "notes": ""
+        }
+    ]
+}

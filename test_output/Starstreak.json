@@ -1,0 +1,281 @@
+
+{
+    "notes": "Ground-based ad system optimized for use against armored helicopters and low flying fixed-wing aircraft. Missile employs smokeless propellant for minimal signature. Flight time (5-8 sec) and guidance make it essentially immune to countermeasures. Because of the high velocity, the system exceeds the hit probability of competing systems against high-speed aircraft on receding flight paths.\nThe Startstreak's lower cost and capabilities as a multi-role missile system offers varied uses. Two considerations are the semi-automatic command line-of-sight (SACLOS) guidance and contact fuses which make it less effective against agile fixed-wing aircraft from some aspects. Thus a more practical course would be to replace 33-50% of the MANPADS. With the lower cost of STARSTREAK and its multi-role capability, it could replace a portion of the expensive single-role MANPADS with Starstreaks, for instance, an 18-manpads battery could be reduced 35%.",
+    "sections": [
+        {
+            "name": "Armament",
+            "properties": [
+                {
+                    "name": "Combat Load ",
+                    "units": "rds",
+                    "value": "5.0"
+                },
+                {
+                    "name": "Combat Load, Dismount ",
+                    "units": "rds",
+                    "value": "3.0"
+                },
+                {
+                    "name": "Fire on Move",
+                    "value": "no"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "System Dimensions",
+                            "value": "See Missile"
+                        },
+                        {
+                            "name": "System Weight",
+                            "units": "kg",
+                            "value": "24.3 with missile"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "properties": [
+                {
+                    "name": "Other",
+                    "value": "ADAD: British passive thermal IR scanners on remote tripod or vehicle mount with 240 degree FOV automatic cueing\nMissile team employs an azimuth plotting board (e.g. Russian\n1L15-1) for direction of approach on aerial targets.\n"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Day Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "7000+"
+                        },
+                        {
+                            "name": "Field of View ",
+                            "units": "deg",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Avimo stabilized optical sight with lead bias system"
+                        }
+                    ]
+                },
+                {
+                    "name": "Night Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "4 to 5 est"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Thales clip-on thermal sight"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Launcher",
+            "properties": [
+                {
+                    "name": "Name",
+                    "value": "Aiming Unit"
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Altitude ",
+                            "units": "m",
+                            "value": "0-5000"
+                        },
+                        {
+                            "name": "Diameter ",
+                            "units": "mm",
+                            "value": "127.0"
+                        },
+                        {
+                            "name": "Flight Time ",
+                            "units": "sec",
+                            "value": "5 to 7"
+                        },
+                        {
+                            "name": "Fuze Type",
+                            "value": "Contact wit time delay"
+                        },
+                        {
+                            "name": "Guidance",
+                            "value": "Laser beam rider SACLOS"
+                        },
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "1.4"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Starstreak"
+                        },
+                        {
+                            "name": "Other",
+                            "value": "Starstreak II: Improved missile has 8-km range and better precision. Fielded 2010"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm  KE",
+                            "value": "120+ all LAVs (equal to 3 x 40- mm APFSD-T rds) HE detonates after for frangible effects"
+                        },
+                        {
+                            "name": "Probability of Hit",
+                            "units": "PCT",
+                            "value": "60 FW, more than 95 heli (each dart 67% for heli)"
+                        },
+                        {
+                            "name": "Propulsion",
+                            "value": "Canister launch booster, bus missile, and 3 darts (sub-missiles)"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "7000 (guided)"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "300.0"
+                        },
+                        {
+                            "name": "Self-Destruct Range",
+                            "units": "km",
+                            "value": "5.5"
+                        },
+                        {
+                            "name": "Speed ",
+                            "units": "m/s",
+                            "value": "1364, Mach 4"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Missile"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Three 25mm darts: Tungsten KE tip and case; HE fill"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "14.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Man portable Shoulder- Launched (SL)\nStarstreak"
+                },
+                {
+                    "name": "Country of Origin",
+                    "value": "Great Britain."
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1997.0"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Great Britain, Indonesia, Malaysia,  South Africa, Thailand."
+                },
+                {
+                    "name": "Reaction Time ",
+                    "units": "sec",
+                    "value": "less than 6"
+                },
+                {
+                    "name": "Reload Time ",
+                    "units": "sec",
+                    "value": "less than 25 est"
+                },
+                {
+                    "name": "Time between Launches ",
+                    "units": "min",
+                    "value": "less than 30 sec"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Target",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "FW, heli, ground vehicles"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "Starburst",
+            "notes": "Javelin SAM launcher adapted for Starstreak LBR guidance- in production"
+        },
+        {
+            "name": "Lightweight Multiple Launcher (LML)",
+            "notes": "Pedestal launcher for three missiles (above). The launcher can also mount on a light vehicle, e.g., TUV.  A demonstrator is LML on a Panhard tactical truck."
+        },
+        {
+            "name": "Starstreak II",
+            "notes": "Improved launcher uses Starstreak or Starstreak II missile. It has an auto-tracker for hands-free guidance.  It was fielded in 2010."
+        },
+        {
+            "name": "Starstreak Lightweight Vehicle (LWV)",
+            "notes": "Land Rover truck converted into an SP SAM system with a 6-canister launcher, ADAD auto-tracker, and TV/ thermal FCS.  This launcher can be mounted on other vehicles."
+        },
+        {
+            "name": "Armored Starstreak or (SP HVM)",
+            "notes": "Vehicle is a Stormer tracked APC chassis, with an 8-missile launcher. The passive IR fire control system uses ADAD, an auto-tracker and thermal sight. The launcher can be mounted on other vehicles."
+        },
+        {
+            "name": "Seastreak",
+            "notes": "Single-stage missile naval variant in a 12-missile launcher, with mm-wave radar FCS."
+        },
+        {
+            "name": "Thor",
+            "notes": "British Multi-Mission Air Defense System is a RWS, with 4 missile launchers, TV, FLIR, and an auto-tracker. Weighing .5 mt, it mounts on trucks, vans, TUVs, APCs, etc., with a remote operator. Designed for Starstreak, launchers, it can also mount other MANPADS, and ATGMs, such as Ingwe, TOW, HELLFIRE, Mokopa, Spike, etc."
+        },
+        {
+            "name": "Lightweight Multi-Role Missile/LMM",
+            "notes": "A multi-role missile options with a single 3-kg tandem (HEAT/HE) warhead and proximity fuze. At 13 kg, the lower-cost missile flies 8-km at 1.5 Mach. It was due in 2013 and was successfully launched by a Camcopter S-100 UCAV variant. Other projected upgrades are semi-active laser- homing and/or dual-mode (LBR/SAL-H)."
+        },
+        {
+            "name": "Low-cost air defense/anti-armor (multi-role) system.",
+            "notes": "Optional use: as a low-cost air defense/anti-armor (multi-role) system, STARSTREAK can be employed against ground targets, such as light armored vehicles, and snipers in bunkers or buildings. The missile and its darts, with a unique combination of penetrator and following frag-he, have been successfully tested against vehicle targets. With a missile cost of 1/2 to 1/3 of competing MANPADS, the system could be used as a fire support asset to complement ATGM launchers and vehicle weapons"
+        },
+        {
+            "name": "The most common launcher used is–SL. Optional Use: As a low-cost air defense/anti-armor (multi-role) system, Starstreak can be employed against ground targets, such as light armored vehicles, and snipers in bunkers or buildings. The missile and its darts, with a unique combination of penetrator and following Frag- HE, have been successfully tested against vehicle targets. With a missile cost of 1/2 to 1/3 of competing MANPADS, the system could be used as a fire support asset to complement ATGM launchers and vehicle weapons.",
+            "notes": ""
+        }
+    ]
+}

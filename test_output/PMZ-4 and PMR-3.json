@@ -1,0 +1,139 @@
+
+{
+    "notes": "Prime equipment mover: 6x6 ZIL-131 truck (200 mines) or 4x4 Ural-375d (350 mines) or BTR-152 (120 mines). Types of mines: TM-44, TM-46, TM-57, TM-62 series, TM-72, TMD-b. Max burial depth (cm): 20. PMR-3, (and the similar PMZ-4) consists of a single chute and a plow attachment. Differences: PMZ-4 (pic left) has a cable layer used for laying controlled minefields and does not have a conveyer-belt chain drive on the wheels. PMZ-4 hand loaded only. Towed-minelayers are used in sections of three or four and operate 20 to 40 meters apart with each minelayer laying a straight-line row. Mines in different rows are staggered with the distance between mines depending on whether the mines are pressure-initiated or full-width attack (influenced or tilt-rod fuzzed).",
+    "sections": [
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Speed, Operating Burying",
+                    "units": "km/h",
+                    "value": "2.5"
+                },
+                {
+                    "name": "Mine Spacing AP",
+                    "units": "m",
+                    "value": "3.0"
+                },
+                {
+                    "name": "Mine Spacing AT",
+                    "units": "m",
+                    "value": "4.0"
+                },
+                {
+                    "name": "Speed, Operating Surface Laying",
+                    "units": "km/h",
+                    "value": "7.0"
+                }
+            ]
+        },
+        {
+            "name": "Mines",
+            "properties": [
+                {
+                    "name": "Combat Load ",
+                    "units": "rds",
+                    "value": "See notes"
+                },
+                {
+                    "name": "Fire on Move",
+                    "value": "No"
+                },
+                {
+                    "name": "Minelaying Pattern",
+                    "value": "Straight line"
+                },
+                {
+                    "name": "Minelaying Rate Burying AT",
+                    "units": "min",
+                    "value": "10.0"
+                },
+                {
+                    "name": "Minelaying Rate Burying AP",
+                    "units": "min",
+                    "value": "12.0"
+                },
+                {
+                    "name": "Type",
+                    "value": "TM-44, TM-46, TM-57, TM-62 SERIES, TM-72, TMD-B"
+                },
+                {
+                    "name": "Weight ",
+                    "units": "kg",
+                    "value": "1300.0"
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "NBC Protection",
+                    "value": "No"
+                },
+                {
+                    "name": "Smoke Screening System",
+                    "value": "No"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "INA"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "Not applicable"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "6.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Russia, Ethiopia, Morocco, Bolivia, Afghanistan, Bangladesh, India, Nepal, Tajikistan, Kazakhstan, Belarus, Poland, Angola"
+                },
+                {
+                    "name": "Troop Capacity ",
+                    "units": "ea",
+                    "value": "0.0"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "1.8"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "2.7"
+                        },
+                        {
+                            "name": "Length, Overall ",
+                            "units": "m",
+                            "value": "5.6"
+                        },
+                        {
+                            "name": "Width ",
+                            "units": "m",
+                            "value": "3.25"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

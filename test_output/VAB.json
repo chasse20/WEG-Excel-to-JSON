@@ -1,0 +1,341 @@
+
+{
+    "notes": "Sources: military periscope & global security. Alternate primary weapon is a 12.7-mm machine gun with 1200 rounds. Vehicle comes in 6 x 6 or 8 x 8 variants that increase the vehicle’s weight. Vehicle can be used as a platform for a variety of weapons is evident by the number and variety of variants available.\n",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "7.62"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "AA-52"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Machine Gun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Name",
+                    "value": "Renault VI MIDS 06.20.45"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Renault water-cooled, turbo- charged in-line, 6-cyclinder\ndiesel\n"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "1000.0"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "15.0"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "40.0"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "92.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "7.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Thales PR4G VS2 VHF"
+                        }
+                    ]
+                },
+                {
+                    "name": "BMS",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "SIT VI"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Weapon 1 ",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "AA-52"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "1250.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "830.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective ",
+                            "units": "m",
+                            "value": "300.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Ball, Tracer, "
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Caliber",
+                            "units": "mm",
+                            "value": "7.62"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Active Protection System",
+                    "value": "No"
+                },
+                {
+                    "name": "Anti IED Armor, Applique ",
+                    "value": "cage, ballistic blanket"
+                },
+                {
+                    "name": "Armor, Explosive Reactive ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "12.7"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Yes"
+                },
+                {
+                    "name": "Self-Entrenching Blade",
+                    "value": "Bulldozer blade available"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "4 Smoke grenade launchers"
+                },
+                {
+                    "name": "Survivability Equipment",
+                    "value": "V-shaped hull"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Vehicule de l’Avant Blinde"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1976.0"
+                },
+                {
+                    "name": "Description",
+                    "value": "4 X 4 wheeled APC with 2 rear exit doors & roof hatches for 10 soldiers; 3 firing ports on each side & a port in each rear\ndoor\n"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "France, Brunei, Central African Republic, Cyprus, Georgia, Indonesia, Ivory Coast, Kuwait, Lebanon, Mauritius, Morocco, Oman, Qatar, United Arab Emirates, Italy"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "13.8"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "2.06"
+                        },
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "5.98 \n"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "2.5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "VCAC Milan",
+            "notes": "Trial 4 X 4 with 2 Milan ATGMs"
+        },
+        {
+            "name": "VAB Echelon Repair Vehicle",
+            "notes": "4 X 4 or 6 X 6 variants for battlefield repairs with a 7.5- mm or 7.62-mm machine gun"
+        },
+        {
+            "name": "VAB PC Command Vehicle",
+            "notes": "Crew of 6 with additional radios & mapboards; FDC &\nFO versions also available\n"
+        },
+        {
+            "name": "VAB Bromure Electronic Warfare Vehicle",
+            "notes": "Crew of 3 operate Thomson-\nCSF VHF tactical jammer\n"
+        },
+        {
+            "name": "VAB ATILA",
+            "notes": "Artillery fire & command"
+        },
+        {
+            "name": "VAB Reco",
+            "notes": "NBC reconnaissance vehicle"
+        },
+        {
+            "name": "VAB Genie Engineer Vehicle",
+            "notes": "Crew of 9 with roof-mounted\nraft\n"
+        },
+        {
+            "name": "VTM 120-mm Mortar Towing Vehicle",
+            "notes": "Tows Thompson Brandt 120-\nmm Mortar with 70 rounds\n"
+        },
+        {
+            "name": "VPM 81",
+            "notes": "81-mm mortar fires through\nroof opening\n"
+        },
+        {
+            "name": "VAB TOW",
+            "notes": "Basic VAB with TOW ATGM\nlauncher with 16 reloads\n"
+        },
+        {
+            "name": "VAB TOW-ALT",
+            "notes": "Thune-Eureka 2-tube TOW\nturret with 16 reload missiles\n"
+        },
+        {
+            "name": "VAB VDAA Albi SAM System",
+            "notes": "Prototype 4 X 4 or 6 X 6 with turret with 2 MATRA SAM\nlaunchers & 6 extra missiles\n"
+        },
+        {
+            "name": "VAB with UTM 800 Anti-Tank Launcher",
+            "notes": "4 non-retractable HOT tube\nlaunchers with 8 reloads\n"
+        },
+        {
+            "name": "VCAC HOT Mephisto Anti-Tank Vehicle",
+            "notes": "4 retractable HOT tube\nlaunchers with SACLOS missiles & 8 additional rounds\n"
+        },
+        {
+            "name": "VMO",
+            "notes": "Internal Security Vehicle"
+        },
+        {
+            "name": "VMO with TOI",
+            "notes": "Standard VMO with cupola,\n7.62-mm MG & AGL\n"
+        },
+        {
+            "name": "VAB AZURE",
+            "notes": "Urban warfare with bulldozer blade & panoramic periscopes"
+        },
+        {
+            "name": "VAB Atlas",
+            "notes": "Improved ATILA Artillery C2"
+        },
+        {
+            "name": "VAB Mark III",
+            "notes": "Latest upgrade from 2014; 6 X 6 with advanced protection &\nmobility\n"
+        },
+        {
+            "name": "VAB New Generation/Improved VAB",
+            "notes": "1996 Upgrade with most\nvariants available\n"
+        },
+        {
+            "name": "VCI",
+            "notes": "More heavily armed than the basic VAB with many variants"
+        },
+        {
+            "name": "VAB RASIT",
+            "notes": "Recon vehicle with radar"
+        },
+        {
+            "name": "VAB RATAC",
+            "notes": "Artillery target acquisition"
+        },
+        {
+            "name": "VAB Sanitaire Ambulance",
+            "notes": "Carries 4 litter, 10 sitting, or 2\nlitter/5 seated patients\n"
+        },
+        {
+            "name": "VAB VDAA Santal SAM System",
+            "notes": "6 X 6 VAB with 2-man turret with 6 MATRA Mistral SAMs\nwith 6 extra rounds in vehicle\n"
+        },
+        {
+            "name": "VAB with ESD",
+            "notes": "TA-20 turret mounted anti-\naircraft system\n"
+        }
+    ]
+}

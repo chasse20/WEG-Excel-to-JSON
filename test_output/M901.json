@@ -1,0 +1,436 @@
+
+{
+    "notes": "The loader has side and overhead protection during loading, which requires 40 seconds.\nThe improved target acquisition system (ITAS) was developed for TOW 2 and later. It includes a laser rangefinder, increased acquisition range, improved night capabilities (second-generation thermal channel), an automatic bore-sight and greater hit probability.",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Elevation, Maximum ",
+                            "units": "deg",
+                            "value": "34.0"
+                        },
+                        {
+                            "name": "Elevation, Minimum ",
+                            "units": "deg",
+                            "value": "neg 30"
+                        },
+                        {
+                            "name": "Loader Type",
+                            "value": "Manual"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "M27"
+                        },
+                        {
+                            "name": "Rate of Fire, Cyclic ",
+                            "units": "rd/min",
+                            "value": "2.0"
+                        },
+                        {
+                            "name": "Rate of Fire, Practical ",
+                            "units": "rd/min",
+                            "value": "2.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "ATGM"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 2",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "7.62"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Machine Gun"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "212.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "212-hp Diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "483.0"
+                },
+                {
+                    "name": "Speed , Maximum Road ",
+                    "units": "km/h",
+                    "value": "64.0"
+                },
+                {
+                    "name": "Speed, Maximum Cross-Country",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "5.8"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "Various, including intercom"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "properties": [
+                {
+                    "name": "Beacon or Tracker Type",
+                    "value": "Xenon (Infrared), thermal on TOW-2 and after"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Day Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Field of View ",
+                            "units": "deg",
+                            "value": "5.5"
+                        },
+                        {
+                            "name": "Magnification",
+                            "value": "Day sight/tracker, 13x"
+                        }
+                    ]
+                },
+                {
+                    "name": "FCS",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "ATM"
+                        }
+                    ]
+                },
+                {
+                    "name": "Night Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Field of View ",
+                            "units": "deg",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "AN/TAS-4 thermal sight"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rangefinder",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "INA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Weapon 1 Munition 1",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "BGM-71 (TOW)"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "600.0"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "65.0"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "3750.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Shaped Charge (HEAT)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "600, KE"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 1 Munition 2",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "BGM-71C (ITOW)"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "800, KE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "3750.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "65.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "HEAT"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "25.7"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 1 Munition 3",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "BGM-71D (Tow2)"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "900, KE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "3750.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "65.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "HEAT"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "28.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 1 Munition 4",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "BGM-71E"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "900, KE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "3750.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "65.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem Shaped Charge (Large HEAT, long probe)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "22.65"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 1 Munition 5",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "BGM-71F (TOW 2B)"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "900, KE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "3750.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "200.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Dual explosive-formed penetrators (EFP),top-attack"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "22.6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "INA"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "None"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "8 smoke grenade launchers"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "ITV (Improved TOW\nVehicle), ITOW\n"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "M113A1"
+                },
+                {
+                    "name": "Country of Origin",
+                    "value": "USA"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "4.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1978.0"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "At least 8 countries"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "11.79"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height ",
+                            "units": "m",
+                            "value": "2.91"
+                        },
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "4.9"
+                        },
+                        {
+                            "name": "Width ",
+                            "units": "m",
+                            "value": "2.7"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,421 @@
+
+{
+    "notes": "The Panzerfaust 3 series of launchers is a compact, lightweight, shoulder-fired, unguided antitank weapon series. It consists of a disposable canister with a 110-mm warhead and reusable firing and sighting device. The Panzerfaust 3 is light enough to be carried and fired by one person. It can fire from enclosures. The gunner carries at least two rounds while the assistant grenadier carries an additional three rounds.",
+    "sections": [
+        {
+            "name": "Armament",
+            "properties": [
+                {
+                    "name": "Combat Load ",
+                    "units": "rds",
+                    "value": "5.0"
+                }
+            ]
+        },
+        {
+            "name": "Mines",
+            "sections": [
+                {
+                    "name": "Mine System and Remote Launcher",
+                    "properties": [
+                        {
+                            "name": "Off",
+                            "value": "The original launcher and\nvariants can be tripod\nmounted, and can be used\nautonomously with sensor\npackage.\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "800 behind ERA"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "110.0"
+                        },
+                        {
+                            "name": "Flight Velocity ",
+                            "units": "m/s",
+                            "value": "220.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "3-T"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "m",
+                            "value": "600 (moving and stationary)"
+                        },
+                        {
+                            "name": "Time of Flight ",
+                            "units": "sec",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem HEAT (Pzf 3-T and 3-T600)\n"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "4.3"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 2",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "15 (at 45 degrees)"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "110.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "BASTEG (Barricade and Street Encounter Grenade)"
+                        },
+                        {
+                            "name": "Penetration, Other ",
+                            "units": "mm",
+                            "value": "920 sandbag, 256 concrete"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "m",
+                            "value": "20 to 400"
+                        },
+                        {
+                            "name": "Time of Flight ",
+                            "units": "sec",
+                            "value": "2.5"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Shaped-charge w/stand-off fuze"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "4.3"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 3",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "700.0"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "110.0"
+                        },
+                        {
+                            "name": "Flight Velocity ",
+                            "units": "m/s",
+                            "value": "220.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "152.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "3-IT (Improved Tandem)"
+                        },
+                        {
+                            "name": "Range ",
+                            "units": "m",
+                            "value": "400.0"
+                        },
+                        {
+                            "name": "Time of Flight ",
+                            "units": "sec",
+                            "value": "2.63"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem HEAT, HESH"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "5.4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 4",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "MZ-110 Multipur-FRAG"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 5",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Illumination"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 6",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Smoke, IR Smoke"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 7",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Tandem HEAT SAL-H (Pzf-3LR)"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition All Note",
+                    "properties": [
+                        {
+                            "name": "Notes",
+                            "value": "The new 3LWD multipurpose grenade has a shaped charge and HE/anti-armor effects of a high-explosive squash-head\n(HESH) round.\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sensor",
+            "sections": [
+                {
+                    "name": "Sensor 1",
+                    "properties": [
+                        {
+                            "name": "Acquisition",
+                            "value": "Targets detected by acoustic sensor which activates the infrared sensors."
+                        },
+                        {
+                            "name": "Name",
+                            "value": "SIRA"
+                        },
+                        {
+                            "name": "Operational Time ",
+                            "units": "days",
+                            "value": "40.0"
+                        },
+                        {
+                            "name": "Range, Effective ",
+                            "units": "m",
+                            "value": "150.0"
+                        },
+                        {
+                            "name": "Target Speed Range ",
+                            "units": "km/h",
+                            "value": "30-60"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sensor 2",
+                    "properties": [
+                        {
+                            "name": "Description",
+                            "value": "Capacitative microphone to detect and arm."
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Acoustic"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sensor 3",
+                    "properties": [
+                        {
+                            "name": "Description",
+                            "value": "Passive, two color"
+                        },
+                        {
+                            "name": "Optics",
+                            "value": "IR Optics, double parabolic, off-axis"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "IR"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sensor 4",
+                    "properties": [
+                        {
+                            "name": "Description",
+                            "value": "4x Pzf-3 launcher mount on a tripod with remote controlled TV camera for controlled launch, and sensors for automatic launch."
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Fire Salamander "
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Remote launcher and off- route mine system"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sights",
+            "sections": [
+                {
+                    "name": "Night Sights",
+                    "properties": [
+                        {
+                            "name": "Available",
+                            "value": "Yes, KN-250 series II"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sights 1",
+                    "properties": [
+                        {
+                            "name": "Location",
+                            "value": "Left side"
+                        },
+                        {
+                            "name": "Magnification",
+                            "value": "1x/3.5"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "DynaRange (Simrad IS2000) for Pzf 3-T600 and Pzf 3-IT600\n"
+                        },
+                        {
+                            "name": "Notes",
+                            "value": "Day sight can be used with Simrad GN1 NVG."
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Computer laser range-finder (LRF) sight\n"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Balliste, Pzf 3-T600"
+                },
+                {
+                    "name": "Cailber/Length ",
+                    "units": "mm",
+                    "value": "60.0"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1990.0"
+                },
+                {
+                    "name": "Fire from Inside Building",
+                    "value": "Yes"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Austria, Belgium, Germany, Iraq, Italy, Japan, Mauritius, Netherlands, Peru, South Korea, Switzerland"
+                },
+                {
+                    "name": "Rate of Fire ",
+                    "units": "rd/min",
+                    "value": "5.0"
+                },
+                {
+                    "name": "Rifling",
+                    "value": "None"
+                },
+                {
+                    "name": "Weight ",
+                    "units": "kg",
+                    "value": "12.0"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Length, Firing ",
+                            "units": " m",
+                            "value": "1.2"
+                        },
+                        {
+                            "name": "Length, Travel ",
+                            "units": "m",
+                            "value": "1.2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "Panzerfaust 3 (Pzf 3)",
+            "notes": "Upgrade with 3-T tandem HEAT grenade and original day sight. It is effective against targets to 300m stationary, 400m moving. Night sight is optional."
+        },
+        {
+            "name": "Panzerfaust  3-T",
+            "notes": "Tier 2 upgrade adds the IS2000 computer laser day sight with range of out to 600 m for moving targets. It uses the Simrad KN250 series II night sight. Acquisition-to-firing time is 3-4 seconds."
+        },
+        {
+            "name": "Panzerfaust 3-T600",
+            "notes": "Tier 1 capability upgrade adds more recent 3-IT grenade which penetrates 900+ mm armor behind ERA (equals 1,150 mm vs armor without ERA)."
+        },
+        {
+            "name": "Panzerfaust 3-IT600",
+            "notes": "Light- weight launcher weighing less than 10 kg."
+        },
+        {
+            "name": "Panzerfaust 3LTW",
+            "notes": "Long-range semi-active laser homing (SAL-\nH) system requires CO2 laser guidance unit and SAL-H grenade. Range-800 m, armor penetration-700 mm.\n"
+        },
+        {
+            "name": "Panzerfaust 3LR",
+            "notes": "Long-range semi-active laser homing (SAL-\nH) system requires CO2 laser guidance unit and SAL-H grenade. Range-800 m, armor penetration-700 mm.\n"
+        }
+    ]
+}

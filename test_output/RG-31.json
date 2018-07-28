@@ -1,0 +1,230 @@
+
+{
+    "notes": "Sources: Military Periscope. One of the early mine-protected vehicles used in Iraq. While basic model is unarmed & used to transport supplies, other versions can be armed with a variety of weapons including the Platt weapons station with 5.56-mm, 7.62-mm, or 12.7-mm MGS or MK-17 AGS.",
+    "sections": [
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Name",
+                    "value": "Mk 3"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "HR 694 Hi3, water-cooled, 6-cylinder, in-line diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "0.91 (RG-31 Mk 5) w/o prep"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "805 (RG-31 Mk 5)"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "120 (RG-31 Mk 3) "
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "LANDSEC VTR 3020"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Active Protection System",
+                    "value": "Available (EMS)"
+                },
+                {
+                    "name": "Armor, Applique ",
+                    "units": "mm",
+                    "value": "Available (RG-31 Mk 6)"
+                },
+                {
+                    "name": "Armor, Explosive Reactive ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "Against 5.56-mm rounds"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "No"
+                },
+                {
+                    "name": "Self-Entrenching Blade",
+                    "value": "No"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "No"
+                },
+                {
+                    "name": "Survivability Equipment",
+                    "value": "Hull can withstand a double TM57 level mine explosion (14 kg of TNT) under any wheel or a single detonation (7 kg of\nTNT) under the central vehicle\n"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Nyala, Charger"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1971.0"
+                },
+                {
+                    "name": "Description",
+                    "value": "4 X 4 armored vehicle can carry up to 8 troops that\nprotects the occupants from small-arms fire &\nmines/explosives"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "3296+/7 countries"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "8.4"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "2.57"
+                        },
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "5.74"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "2.2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "RG-31 Mk 3",
+            "notes": ""
+        },
+        {
+            "name": "2.57",
+            "notes": ""
+        },
+        {
+            "name": "5.74",
+            "notes": ""
+        },
+        {
+            "name": "2.2",
+            "notes": ""
+        },
+        {
+            "name": "8.4",
+            "notes": ""
+        },
+        {
+            "name": "RG-31 Quick Intervention Vehicle (Scorpion)",
+            "notes": ""
+        },
+        {
+            "name": "RG-31 Mk 3 Ambulance",
+            "notes": ""
+        },
+        {
+            "name": "RG-31 Mk 5EHM",
+            "notes": ""
+        },
+        {
+            "name": "2.8",
+            "notes": ""
+        },
+        {
+            "name": "7.0",
+            "notes": ""
+        },
+        {
+            "name": "2.5",
+            "notes": ""
+        },
+        {
+            "name": "8.4 (RG-31 Mk 3), 14.2 (RG-31 Mk 5), 18.6 (RG-31 Mk 5EHM)",
+            "notes": ""
+        },
+        {
+            "name": "RG-31 Mk 5",
+            "notes": ""
+        },
+        {
+            "name": "2.72",
+            "notes": ""
+        },
+        {
+            "name": "6.6",
+            "notes": ""
+        },
+        {
+            "name": "2.48",
+            "notes": ""
+        },
+        {
+            "name": "14.2",
+            "notes": ""
+        },
+        {
+            "name": "RG-31 Mk 6",
+            "notes": ""
+        }
+    ]
+}

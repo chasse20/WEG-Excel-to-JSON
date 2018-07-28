@@ -1,0 +1,285 @@
+
+{
+    "notes": "The disposable canister/launch tube is attached to the reusable firing post (which includes sight systems). Eryx employs a recoil reductions system with reduced back-blast, which permits launch from inside of buildings. A rest such as a ledge or sandbag is required for launches beyond 350 meters. Signature reduction includes noise and smoke reduction. The original Sopelem OB50 II night sight had a range of 600 m.",
+    "sections": [
+        {
+            "name": "Armament",
+            "properties": [
+                {
+                    "name": "Combat Load, Ready ",
+                    "units": "rds",
+                    "value": "1.0"
+                },
+                {
+                    "name": "Combat Load, Stowed ",
+                    "units": "rds",
+                    "value": "0.0"
+                },
+                {
+                    "name": "Displacement Time ",
+                    "units": "min",
+                    "value": "less than 0.03"
+                },
+                {
+                    "name": "Elevation, Maximum ",
+                    "units": "deg",
+                    "value": "75 est."
+                },
+                {
+                    "name": "Depression, Maximum",
+                    "units": "deg",
+                    "value": "-30.0"
+                },
+                {
+                    "name": "Emplacement Time ",
+                    "units": "sec ",
+                    "value": "5.0"
+                },
+                {
+                    "name": "Fire on Move",
+                    "value": "INA"
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "properties": [
+                {
+                    "name": "Beacon or Tracker Type",
+                    "value": "Infrared laser diode"
+                },
+                {
+                    "name": "Command Link",
+                    "value": "Wire"
+                },
+                {
+                    "name": "Flight Time",
+                    "units": "sec",
+                    "value": "less than 4"
+                },
+                {
+                    "name": "Guidance",
+                    "value": "SACLOS"
+                },
+                {
+                    "name": "Tracker Type",
+                    "value": "Charge couple device (CCD)"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Survivability/Countermeasures",
+                    "properties": [
+                        {
+                            "name": "Susceptible Countermeasures",
+                            "value": "EO Jammers, smoke, counter-fire"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Launcher",
+            "properties": [
+                {
+                    "name": "Launch Method",
+                    "value": "Disposable launch canister"
+                },
+                {
+                    "name": "Name",
+                    "value": "Eryn"
+                },
+                {
+                    "name": "Rate of Fire ",
+                    "units": "rd/min",
+                    "value": "2.5"
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "900.0"
+                        },
+                        {
+                            "name": "Average Velocity ",
+                            "units": "m/s",
+                            "value": "162.0"
+                        },
+                        {
+                            "name": "Designation",
+                            "value": "ACCP"
+                        },
+                        {
+                            "name": "Diameter ",
+                            "units": "mm",
+                            "value": "136.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Eryn"
+                        },
+                        {
+                            "name": "Probability of Hit",
+                            "units": "PCT",
+                            "value": "90.0"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "600.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "50.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Antitank Guided Missile"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem Shaped Charge (HEAT) CE"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "11 (in tube)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sights",
+            "sections": [
+                {
+                    "name": "Day Sight",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Gunner"
+                        },
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "600.0"
+                        },
+                        {
+                            "name": "Field of View ",
+                            "units": "deg",
+                            "value": "3.4"
+                        }
+                    ]
+                },
+                {
+                    "name": "Night Sights",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "1.2"
+                        },
+                        {
+                            "name": "Field of View ",
+                            "units": "deg",
+                            "value": "8 X 6°"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Mirable"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternate Mounts",
+                    "value": "Shoulder-launch: standing, kneeling, or prone"
+                },
+                {
+                    "name": "Alternative Designation",
+                    "value": "Anti-Char Courtee Portee\n(ACCP)\n"
+                },
+                {
+                    "name": "Country of Origin",
+                    "value": "France"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1991.0"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "France, Brazil, Canada, Malaysia, Norway, Serbia, Turkey"
+                },
+                {
+                    "name": "Reaction Time ",
+                    "units": "sec",
+                    "value": "4.0"
+                },
+                {
+                    "name": "Weight",
+                    "units": "kg",
+                    "value": "26.0"
+                },
+                {
+                    "name": "Weight, Excluding Missile ",
+                    "units": "kg",
+                    "value": "13.0"
+                },
+                {
+                    "name": "Weight, Tripod ",
+                    "units": "kg",
+                    "value": "4.0"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Firing ",
+                            "units": "m",
+                            "value": "1.0"
+                        },
+                        {
+                            "name": "Length, Firing ",
+                            "units": " m",
+                            "value": "0.905"
+                        },
+                        {
+                            "name": "Width, Firing ",
+                            "units": "m",
+                            "value": "0.6"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mount",
+                    "properties": [
+                        {
+                            "name": "Primary mount",
+                            "value": "tripod"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

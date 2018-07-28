@@ -1,0 +1,228 @@
+
+{
+    "notes": "There are reports that Pakistan has a similar technology system.",
+    "sections": [
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Type",
+                    "value": "V8, Diesel Engines"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "550 (est)"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "70 (est based off of No Dong) "
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "sections": [
+                {
+                    "name": "Fire Control Computer",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "INA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Launcher",
+            "sections": [
+                {
+                    "name": "Launcher Performance",
+                    "properties": [
+                        {
+                            "name": "Displacement Time ",
+                            "units": "min",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Emplace",
+                            "value": "60 (est)"
+                        },
+                        {
+                            "name": "Land Navigation",
+                            "value": "GNSS"
+                        },
+                        {
+                            "name": "Time between Launches ",
+                            "units": "min",
+                            "value": "INA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mobile Erector Launcher",
+            "properties": [
+                {
+                    "name": "Chassis",
+                    "value": "Based on No-dong 1type (Mercedes Benz)"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "3 (EST)"
+                },
+                {
+                    "name": "Description",
+                    "value": "Likely, a highly mobile truck (NFI) built indigenously for the Shahab 3 based off the No-Dong ballistic missile TEL."
+                },
+                {
+                    "name": "Name",
+                    "value": "INA"
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Accuracy",
+                            "units": "m",
+                            "value": "190.0"
+                        },
+                        {
+                            "name": "Combat Load, per launcher",
+                            "units": "rds",
+                            "value": "1.0"
+                        },
+                        {
+                            "name": "Diameter ",
+                            "units": "mm",
+                            "value": "1.38"
+                        },
+                        {
+                            "name": "Fuze Type",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Guidance",
+                            "value": "Gyroscopic inertial"
+                        },
+                        {
+                            "name": "Launch Method",
+                            "value": "Vertical launch"
+                        },
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "16.58"
+                        },
+                        {
+                            "name": "Maximum Launch Range ",
+                            "units": "km",
+                            "value": "1300.0"
+                        },
+                        {
+                            "name": "Minimum Launch Range ",
+                            "units": "km",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Shahab-3A"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Single-stage liquid with separating re-entry vehicle (RV)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "15862-16250"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "760-1158"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Armor Protection",
+                    "value": "None"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "None"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "INA"
+                },
+                {
+                    "name": "Countermeasures",
+                    "value": "Off-road movement to concealed launch point. The warhead on a re-entry vehicle can maneuver separate from the missile body to challenge intercept systems. Erect-to-Launch time: INA"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "2003.0"
+                },
+                {
+                    "name": "Primary Components",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Iran"
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "Original Shahab-3",
+            "notes": "The missile and warhead resembled the NODONG-1, with a 1,200 kg warhead and a range of 1,300 km. Accuracy is said to be 190 m. With advent of the new missile design, it is now called shahab-3a."
+        },
+        {
+            "name": "Shahab-3B",
+            "notes": "This version  has  a new  design  separating  RV  with 2,000 range and smaller 500-650 kg warhead.  Accuracy is said to be 190 m. It mounts on a different MEL trailer."
+        },
+        {
+            "name": "Shahab-C and D",
+            "notes": "Reports these are in testing."
+        },
+        {
+            "name": "NODONG-A1",
+            "notes": "A North Korean counterpart version of the Shahab-3B missile. "
+        },
+        {
+            "name": "Warhead options type",
+            "notes": "Nuclear, HE, Chemical, or Sub-Munitions"
+        },
+        {
+            "name": "Variants have used different trucks and trailer designs.",
+            "notes": ""
+        }
+    ]
+}

@@ -1,0 +1,372 @@
+
+{
+    "notes": "Sources: 2014 WEG. This motorcycle is derived from the German BMW motorcycle design from World War II. There are civilian versions of this motorcycle such as the solo and tourist, both without a side car, and the sportsman with a sidecar. Motorcycles can be used by airborne units, especially infantry; snipers; security personnel; reconnaissance elements, anti-tank teams, liaison officers,\nSignal units, and other units. The sidecar can be removed. (Pictures from 2014 WEG)\n\n",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "7.62"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "PKT"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Machine Gun"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 2",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "12.7"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "DShK (Degtyaryov-Shpagin\nLarge-Caliber\n"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "DShK Machine Gun"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 3",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "30.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "AGS-17"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Automatic grenade launcher"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 4",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "135.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "AT-5B (Konkurs-M/9P135M2)"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "ATGM-SACLOS"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "45.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "2-cylinder, 4-cycle gasoline"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "float capable"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "240.0"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed , Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "105.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "INA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Weapon 1 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "830.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Day ",
+                            "units": "m",
+                            "value": "1500.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Night ",
+                            "units": "m",
+                            "value": "1000.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tracer, AP, API, Incendiary"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 2 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "850.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective ",
+                            "units": "m",
+                            "value": "2000.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "INA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 3 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "185, 200"
+                        },
+                        {
+                            "name": "Range, Maximum Effective ",
+                            "units": "m",
+                            "value": "1700.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "INA"
+                        }
+                    ]
+                },
+                {
+                    "name": "Weapon 4 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "750-800 (RHA)"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "200.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective ",
+                            "units": "m",
+                            "value": "4000.0"
+                        },
+                        {
+                            "name": "Range, Minimum Effective ",
+                            "units": "m",
+                            "value": "70.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "INA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Active Protection System",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Applique ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Explosive Reactive ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "No"
+                },
+                {
+                    "name": "Protection",
+                    "value": "INA"
+                },
+                {
+                    "name": "Self-Entrenching Blade",
+                    "value": "No"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "No"
+                },
+                {
+                    "name": "Survivability Equipment",
+                    "value": "INA"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "IMZ-8.107, IMZ-8.103"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "By 1999"
+                },
+                {
+                    "name": "Description",
+                    "value": "Motorcycle with optional\nsidecar.\n"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Australia,  Belgium, Brazil,  Egypt, Finland, France, Germany, Greece, Iceland, Iran, Uruguay, Netherlands, Norway, Paraguay, South Africa, Spain, Sweden, UK, US\n"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "315.0"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "1.1"
+                        },
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "2.56"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "1.7"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "NM3-8.107",
+            "notes": ""
+        },
+        {
+            "name": "Chang Jiang 750",
+            "notes": ""
+        }
+    ]
+}

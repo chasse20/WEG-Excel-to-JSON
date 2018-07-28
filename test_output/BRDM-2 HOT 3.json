@@ -1,0 +1,333 @@
+
+{
+    "notes": "The HOT antitank guided missile is produced by a European consortium, which includes companies in France and Germany. The cruciform-based single-tube ground launcher system exceeds the weight limit for the portable class of ATGM launchers. An updated launcher for HOT 3 offers a thermal modular system night sight and a dual band tracker. The HOT can be launched from a ground launcher, the same launcher mounted on a variety of vehicles, from infantry fighting vehicles and ATGM launcher vehicles, and from helicopters.\nThe vehicle represents VAB HOT, Pandur HOT, Santana/HOT and other wheeled HOT vehicles. The amx-10 HOT constitutes a high-end application on that spectrum, and has not been widely proliferated. Alternate mounts for the launcher include the atlas/commando lightweight launcher (140 kg) mounted on the Spanish Santana (4 x 4 land rover light truck). The Lancelot turret used on amx-10 HOT can be mounted on other armored fighting vehicles. The French-produced VAB HOT uses a Mephisto retractable twin-tube launcher, and has an onboard load of 10 HOT ATGMs. The utm800 turret holds four HOT missiles, with a stabilized sight and castor thermal night sight. The utm800 is used on two applications. The French VCR/TH employs the turret on a Panhard VCR/TT 6 x 6 APC chassis. The other is the UTM turret on a VAB APC chassis. The turret can be mounted on the VBR chassis, which permits easier carry of the larger HOT missile than does its predecessor, the VBL.\nThe single-tube dismountable HOT firing station can be mounted on light vehicles such as the VBL.\n",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Command Link",
+                            "value": "Wire"
+                        },
+                        {
+                            "name": "Elevation, Maximum ",
+                            "units": "deg",
+                            "value": "18.0"
+                        },
+                        {
+                            "name": "Elevation, Minimum ",
+                            "units": "deg",
+                            "value": "neg 12"
+                        },
+                        {
+                            "name": "Guidance",
+                            "value": "SACLOS"
+                        },
+                        {
+                            "name": "Loader Type",
+                            "value": "Manual"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "ATM"
+                        },
+                        {
+                            "name": "Rate of Fire, Cyclic ",
+                            "units": "rd/min",
+                            "value": "4.0"
+                        },
+                        {
+                            "name": "Rate of Fire, Practical ",
+                            "units": "rd/min",
+                            "value": "3.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "ATGM"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "300.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "Amphibious"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "600.0"
+                },
+                {
+                    "name": "Speed , Maximum Road ",
+                    "units": "km/h",
+                    "value": "65.0"
+                },
+                {
+                    "name": "Speed, Maximum Cross-Country",
+                    "units": "km/h",
+                    "value": "35.0"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "7.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "VHF and intercom"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "properties": [
+                {
+                    "name": "Beacon or Tracker Type",
+                    "value": "Xenon"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Day Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "4000.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "TV, NFI"
+                        }
+                    ]
+                },
+                {
+                    "name": "FCS",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "ATM"
+                        }
+                    ]
+                },
+                {
+                    "name": "Night Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "km",
+                            "value": "4000.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Thermal Image System, NFI"
+                        }
+                    ]
+                },
+                {
+                    "name": "Rangefinder",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "Laser 15000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "HOT 3"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "1250, CE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "4300.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "75.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem Shaped Charge (HEAT)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "32.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 2",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "HOT 2"
+                        },
+                        {
+                            "name": "Penetration ",
+                            "units": "mm",
+                            "value": "1250, CE"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "4300.0"
+                        },
+                        {
+                            "name": "Range, Minimum ",
+                            "units": "m",
+                            "value": "75.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem Shaped Charge (HEAT)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "32.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Armor, Applique ",
+                    "units": "mm",
+                    "value": "INA"
+                },
+                {
+                    "name": "Armor, Reactive ",
+                    "units": "mm",
+                    "value": "INA"
+                },
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "12.7"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Collective"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "3 smoke grenade launchers"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "ATM on BRDM-2"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "BRDM-2, with an ATM upgrade turret variant"
+                },
+                {
+                    "name": "Country of Origin",
+                    "value": "Russia"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "3.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "More than 8 countries"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "INA"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height ",
+                            "units": "m",
+                            "value": "2.57"
+                        },
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "5.78"
+                        },
+                        {
+                            "name": "Width ",
+                            "units": "m",
+                            "value": "2.78"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "ATM variants include sensor only pods, and ATGMs on up to 4 weapon stations in mix with MG, 20/30-mm cannon, and Russian or Euospatiale ATGMs. Other ATM vehicle applications include BMP-3/ATM, Pandur/ATM (photo), HMMWV/ATM, Puma 4x4 ATM, Tactica/ATM, Fennek/ATM, and Wiesel/ATM HOT variants.\n \n",
+            "notes": ""
+        }
+    ]
+}

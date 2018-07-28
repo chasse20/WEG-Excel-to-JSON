@@ -1,0 +1,178 @@
+
+{
+    "notes": "The TMM is a multiple-span, trestle-supported, scissors-type, treadway bridge. One bridge set comprises four10.5 meter, spans carried on, and launched from specially modified trucks. Spans fold in half for transport. Three of the spans have integral-mounted adjusted (1.7 to 3.2 meters) trestle legs, while the fourth (far-shore) span has none. During travel, the trestles can fold beneath the scissors plan. A launching girder mounted on the truck bed launches the TMM hydraulically over the tailgate. Assisted by winch cables and pulleys, the girder raises, unfolds, and emplaces the span with the folding trestle legs. If necessary the TMM can be laid underwater. This requires about 50% more emplacement time. Weight (kg): 4.24. Pier: (TMM on Kraz-255). Height (m): min: 1.7 max: 3.21. Ground area (m2/pier): 2.4. Weight (m): 1.15. Lowering method: cable release. Raising method: hand winch. Locking method: manual. Assembly data spans in set: 4. Length of 1 span (m):  unfolded:10.5. Folded:  5.2. Total length of bridge (m):  42. Obstacle span (m): span:  9.4. Depth: 3. Roadway width (m): closed:3.2. Extended: 5.2. Assembly time (min): 20-40. 1 span: 8-15. 4 spans: 30-60. Recovery time (min): same as assembly. Working party:  3 per span/12 total. Launch sequence 1. Truck backs into position. 2. A hydraulic launching girder raises the folded span to the vertical position. 3. The span is straightened by a cable/winch system, and then is lowered with the integral trestle legs swinging into position. 4. Once the lowering operation is completed, the cables are disconnected, the launching girder is brought to travel position, and the truck moves off.",
+    "sections": [
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "INA"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "INA"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "1.0"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Vertical Step ",
+                    "units": "m",
+                    "value": "INA"
+                }
+            ]
+        },
+        {
+            "name": "Bridge",
+            "properties": [
+                {
+                    "name": "Bridge/center",
+                    "value": "INA"
+                },
+                {
+                    "name": "Capacity/Load Class ",
+                    "units": "mt",
+                    "value": "60.0"
+                },
+                {
+                    "name": "Material",
+                    "value": "Low alloy steel"
+                },
+                {
+                    "name": "Ramp/shore",
+                    "value": "INA"
+                },
+                {
+                    "name": "Roadway Width ",
+                    "units": "m",
+                    "value": "3.2-3.8"
+                },
+                {
+                    "name": "Type",
+                    "value": "Truck-mounted scissors"
+                },
+                {
+                    "name": "Variants",
+                    "value": "TMM-3: KrAZ-255B 6 x 6 improved bridgelaying mechanism. TMM-6: MAZ-543 8 × 8 truck with 17 m bridge spans (unfolded)."
+                },
+                {
+                    "name": "Working Party",
+                    "value": "See Notes"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "227.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "INA"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Mechanized Bridge, Scissors Bridge"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "Modified KrAZ-214 (6 × 6),  7,000\nkg, or KrAZ-255B (6 × 6), 7,500 kg,\nand KrAZ-260 trucks.\n"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "See Notes"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1964.0"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "At least 20 countries."
+                },
+                {
+                    "name": "Troop Capacity ",
+                    "units": "ea",
+                    "value": "INA"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "19.0"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "3.15"
+                        },
+                        {
+                            "name": "Length, Overall ",
+                            "units": "m",
+                            "value": "9.3"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "3.2"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

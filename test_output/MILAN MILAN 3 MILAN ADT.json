@@ -1,0 +1,380 @@
+
+{
+    "notes": "Although the launcher is portable and has been labeled man-portable, it is too heavy for one-man carry with missile. A kit is available for retrofit to earlier MILAN launchers, to permit firing the MILAN 3 ATGM using EOIRCM (jammer countermeasure).",
+    "sections": [
+        {
+            "name": "Armament",
+            "properties": [
+                {
+                    "name": "Combat Load, Ready ",
+                    "units": "rds",
+                    "value": "2- man crew (1 on launcher) 3- man crew (1 on launcher), +1 ready"
+                },
+                {
+                    "name": "Combat Load, Stowed ",
+                    "units": "rds",
+                    "value": "2- man crew, 0 stowed; 3- man crew, 0 stowed"
+                },
+                {
+                    "name": "Displacement Time ",
+                    "units": "min",
+                    "value": "2.0"
+                },
+                {
+                    "name": "Elevation, Maximum ",
+                    "units": "deg",
+                    "value": "80.0"
+                },
+                {
+                    "name": "Elevation, Minimum ",
+                    "units": "deg",
+                    "value": "30.0"
+                },
+                {
+                    "name": "Emplacement Time ",
+                    "units": "min",
+                    "value": "2.0"
+                }
+            ]
+        },
+        {
+            "name": "Fire Control System",
+            "properties": [
+                {
+                    "name": "Beacon or Tracker Type",
+                    "value": "Pyrotechnic flare, MILAN 2/Xenon bulb, Milan 3"
+                },
+                {
+                    "name": "Command Link",
+                    "value": "Wire"
+                },
+                {
+                    "name": "Counter",
+                    "value": "Encoded tracker, counters "
+                },
+                {
+                    "name": "Guidance",
+                    "value": "SACLOS"
+                },
+                {
+                    "name": "Tracker Type",
+                    "value": "IR, 2.2 um/ 0.9 um MILAN 3"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Rangefinder",
+                    "properties": [
+                        {
+                            "name": "Type",
+                            "value": "Integrated Thermal"
+                        }
+                    ]
+                },
+                {
+                    "name": "Survivability/Countermeasures",
+                    "properties": [
+                        {
+                            "name": "Survivability/Countermeasures",
+                            "value": "Smoke, counter-fire, moving"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Launcher",
+            "properties": [
+                {
+                    "name": "Launch Method",
+                    "value": "Disposable launch canister"
+                },
+                {
+                    "name": "Name",
+                    "value": "Milan 2/Milan 3"
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 1",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "600 (RHA)"
+                        },
+                        {
+                            "name": "Average Velocity ",
+                            "units": "m/s",
+                            "value": "160.0"
+                        },
+                        {
+                            "name": "Diameter ",
+                            "units": "mm",
+                            "value": "0.115"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Milan"
+                        },
+                        {
+                            "name": "Probability of Hit",
+                            "units": "PCT",
+                            "value": ">90"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "2000.0"
+                        },
+                        {
+                            "name": "Time of flight to Maximum Range ",
+                            "units": "sec",
+                            "value": "12.5"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Shaped Charge (HEAT)"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "6.7"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 2",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "800 (RHA)"
+                        },
+                        {
+                            "name": "Average Velocity ",
+                            "units": "m/s",
+                            "value": "160.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Milan 2"
+                        },
+                        {
+                            "name": "Probability of Hit",
+                            "units": "PCT",
+                            "value": "> 90"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "2000.0"
+                        },
+                        {
+                            "name": "Time of flight to Maximum Range ",
+                            "units": "sec",
+                            "value": "12.5"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem Shaped Charge"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "6.7"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 3",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "880 (RHA)"
+                        },
+                        {
+                            "name": "Average Velocity ",
+                            "units": "m/s",
+                            "value": "160.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Milan 3"
+                        },
+                        {
+                            "name": "Probability of Hit",
+                            "units": "PCT",
+                            "value": "> 90"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "1920.0"
+                        },
+                        {
+                            "name": "Time of flight to Maximum Range ",
+                            "units": "sec",
+                            "value": "12.5"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Tandem Shaped Charge with precursor charge"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "7.1"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 4",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "1300+ for conventional armor. "
+                        },
+                        {
+                            "name": "Name",
+                            "value": "Milan-ER"
+                        },
+                        {
+                            "name": "Range, Maximum ",
+                            "units": "m",
+                            "value": "3000.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sights",
+            "sections": [
+                {
+                    "name": "Day Sight",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "m",
+                            "value": "4000.0"
+                        },
+                        {
+                            "name": "Field of View ",
+                            "units": "deg",
+                            "value": "4.3"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Gunner"
+                        }
+                    ]
+                },
+                {
+                    "name": "Night Sights",
+                    "properties": [
+                        {
+                            "name": "Acquisition Range ",
+                            "units": "m",
+                            "value": "4000.0"
+                        },
+                        {
+                            "name": "Field of View ",
+                            "units": "deg",
+                            "value": "3x6"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Mira Thermal sight available"
+                        }
+                    ]
+                },
+                {
+                    "name": "Sights 1",
+                    "properties": [
+                        {
+                            "name": "Magnification",
+                            "value": "7x"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternate Mounts",
+                    "value": "IFV, ATGM Launcher Vehicle, jeep, helicopter"
+                },
+                {
+                    "name": "Alternative Designation",
+                    "value": "Missile d/Infantrie Leger\nAntichar\n"
+                },
+                {
+                    "name": "Country of Origin",
+                    "value": "France"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "2, 3 with ammo bearer for second missile"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1985.0"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Afghanistan, Egypt, France, Germany, Kurdistan, Italy, South Africa, Syria, Tunisia, Turkey, and 33 other countries."
+                },
+                {
+                    "name": "Rate of Fire ",
+                    "units": "rd/min",
+                    "value": "2-3, depending n range Reaction time (sec)"
+                },
+                {
+                    "name": "Weight, Excluding Missile ",
+                    "units": "kg",
+                    "value": "16.5"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Firing ",
+                            "units": "m",
+                            "value": "0.6"
+                        },
+                        {
+                            "name": "Length, Firing ",
+                            "units": " m",
+                            "value": "1.2 (missile canister)"
+                        },
+                        {
+                            "name": "Width, Firing ",
+                            "units": "m",
+                            "value": "0.42"
+                        }
+                    ]
+                },
+                {
+                    "name": "Mount",
+                    "properties": [
+                        {
+                            "name": "Primary mount",
+                            "value": "Ground mount on tripod, including operator prone"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

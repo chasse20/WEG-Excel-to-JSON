@@ -1,0 +1,261 @@
+
+{
+    "notes": "Sources: 2014 WEG and Military Periscope; this is the BMD-1 with an additional road wheel, the turret removed, a raised hatch area, and an extended passenger compartment to hold more Soldiers.  Options include an AGS-17, 30-mm automatic grenade launcher, in the rear or a Kliver turret (30-mm gun, 7.62-mm coaxial machine gun, thermal sights, superior day sights, and 4 Kornet ATGM launchers). Some analysts consider this vehicle more an APC than an IFV.",
+    "sections": [
+        {
+            "name": "Armament",
+            "sections": [
+                {
+                    "name": "Weapon 1",
+                    "properties": [
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "7.62"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "PKT"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Machine Gun x2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Name",
+                    "value": "Type 5D-20"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Liquid-cooled, V-6 diesel"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "500.0"
+                },
+                {
+                    "name": "Speed , Average Cross-Country",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "35.0"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "63.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "10.0"
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "R-173P"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Weapon 1 Munition All",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm",
+                            "value": "8 at 500m"
+                        },
+                        {
+                            "name": "Combat Load ",
+                            "units": "rds",
+                            "value": "2000.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "825.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Day ",
+                            "units": "m",
+                            "value": "1000.0"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, Night ",
+                            "units": "m",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Range, Maximum Effective, On the Move ",
+                            "units": "m",
+                            "value": "400-500"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "Light Ball, Ball-T, Heavy Ball, API, API-T, Incendiary"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Protection",
+            "properties": [
+                {
+                    "name": "Active Protection System",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Applique ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Explosive Reactive ",
+                    "units": "mm",
+                    "value": "No"
+                },
+                {
+                    "name": "Armor, Turret Front ",
+                    "units": "mm",
+                    "value": "Anti-bullet up to 7.62-mm"
+                },
+                {
+                    "name": "NBC Protection",
+                    "value": "Yes"
+                },
+                {
+                    "name": "Self-Entrenching Blade",
+                    "value": "No"
+                },
+                {
+                    "name": "Smoke Equipment",
+                    "value": "V4 Forward firing smoke grenade launchers; VEESS"
+                },
+                {
+                    "name": "Survivability Equipment",
+                    "value": "INA"
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "See variants"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "3x driver, gunner, commander"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1969.0"
+                },
+                {
+                    "name": "Description",
+                    "value": "Air droppable IFV with exit doors in the rear with space for 10 soldiers; 2 firing ports on each side; 1 firing port in\nleft rear door\n"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "0.5"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Azerbaijan, Belarus, Moldova, Russia, Ukraine, Uzbekistan"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "6.7"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "1.67"
+                        },
+                        {
+                            "name": "Length, Chassis Overall ",
+                            "units": "m",
+                            "value": "5.88"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "2.63"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "1V119 Spektr",
+            "notes": "1V 118 Reostat without the\nTall Mike radar system"
+        },
+        {
+            "name": "S0-120 (2S9 Anona) SP\nHowitzer/Mortar\n",
+            "notes": "Self-propelled howitzer/\nmortar built on same chassis"
+        },
+        {
+            "name": "BMD-KShM",
+            "notes": "Command vehicle with 30-mm AG17 AGL & folding antenna; no firing ports or smoke\ndischargers"
+        },
+        {
+            "name": "BRehM-D Repair & Recovery\nVehicle\n",
+            "notes": "BTR-D chassis with recovery\ncrane, winch, dozer blade, & welding system to recover BMD vehicles; 7.62-mm\nmachine gun\n"
+        },
+        {
+            "name": "BTR-RD Robot (BMD-1D)",
+            "notes": "AT variant with the AT-5 Spandrel (9K113 Konkurs) ATGM launch rail, 2 bow- mounted 7.62-mm machine guns with a AT-4/AT-5 launcher available for dismount use only"
+        },
+        {
+            "name": "BTR-ZD (BMD 1979)",
+            "notes": "AD variant with with twin 23- mm ZU-23 AA gun"
+        },
+        {
+            "name": "BMD-1 with Schmel-1 RPV (Bumble Bee-1)",
+            "notes": "Second generation battlefield surveillance UAV launcher\nsystem\n"
+        },
+        {
+            "name": "BMD-OBD Communications System",
+            "notes": "BTR-D chassis with an R-440\nsatellite commo system"
+        },
+        {
+            "name": "1V 118 Reostat",
+            "notes": "Observation vehicle for the 2S9 120-mm SP howitzer w/o the turret"
+        }
+    ]
+}

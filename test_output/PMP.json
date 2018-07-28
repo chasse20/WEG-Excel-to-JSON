@@ -1,0 +1,178 @@
+
+{
+    "notes": "The complete PMP ribbon bridge set consists of 32 center pontoons and 4 ramp pontoons, the normal bridge unit consists of a half-set (one complete bridge) made up of 16 center and 2 ramp pontoons. Each 4-section is launched from the KRAZ-255B. It automatically unfolds upon entering the water. The sections then lock in place to form a bridge unit 6.75 meters long and 8 meters wide. Normally, all the units are launched simultaneously. They join together parallel to the near shore to form a continuous roadway. The roadway then swings across the water obstacle; powerboats (6 per half-set) hold it in place on the designated centerline. Engineers can use the full 36- pontoon set to construct 227 meters of bridge. They may also configure it as 40- to 170-ton rafts. A half-set gives the capability to construct 119 meters of 60-ton bridge, 191 meters of 20-ton bridge, or rafts. Under ideal conditions assembly speeds of 7 meters of bridge per minute can result. This bridge can be built in streams with a velocity of up to 2 meters a second (approx. 7 km/h). Automatically unfolds upon entering the water. The sections then lock in place to form a bridge unit 6.75 meters long and 8 meters wide. Normally, all the units are launched simultaneously. They join together parallel to the near shore to form a continuous roadway. The roadway then swings across the water obstacle; powerboats (6 per half-set) hold it in place on the designated centerline. Engineers can use the full 36-pontoon set to construct 227 meters of bridge. They may also configure it as 40- to 170-ton rafts. A half-set gives the capability to construct 119 meters of 60-ton bridge, 191 meters of 20-ton bridge, or rafts. Under ideal conditions assembly speeds of 7 meters of bridge per minute can result. This bridge can be built in streams with a velocity of up to 2 meters a second (approx. 7 km/h). Bridge pontoons: weight (kg): 6,790. Length (m): unfolded:  6.75. Folded:  6.75. Width (m):  unfolded:  8. Folded:  5. Depth unfolded (m): bow  section:  9. Center section: 7. Folded: 2. Ramp pontoons. Weight (kg): 7,252. Length (m): unfolded: 5.6. Folded: 5.6. Width unfolded (m): river end: 7.3. Shore end: 7. Folded: 3.1. Raft assembly data. 40-ton raft-bridge pontoons: 2 overall deck length (m): 13.5. Assembly time (min): 8 working party (est.): 6. 60-ton raft-bridge pontoons: 3 overall deck length (m): 20.3. Assembly time (min): 10. Working party (est.): 9. 80-ton raft-bridge pontoons: 4. Overall deck length (m): 27. Assembly time (min): 12. Working party (est): 12. 110-ton raft-bridge ramp pontoon: 1 bridge pontoons: 5 overall deck length (m): 39.3. Assembly time (min): 15. Working party (est.): 18. 170-ton raft-bridge ramp pontoon: 1.bridge pontoons: 8. Overall deck length (m): 59.6. Assembly time (min): 15. Working party (est.): INA. Auxiliary equipment powerboats or tracked amphibians: 12. Launch sequence. 1. The travel locks are disengaged, the pontoon carrier backs to the edge of the water, brakes sharply, and then the pontoon slides over the carrier roller system into the water where it unfolds almost immediately. 2. The pontoon is then stiffened by activating six locking devices. 3. Once the pontoons have been launched and stiffened they are interconnected parallel to the near shore to form a continuous strip of roadway. 4. This roadway is then swung across the water obstacle and held in place by powerboats. Whenever possible the launching operations are done along a continuous shoreline permitting all pontoons to be launched at the same time. If necessary, the bridge can be built on a small frontage using the successive raft system. This slows construction time. Retrieval for retrieval the launch operation is reversed. The pontoon carrier backs to the water’s edge, an integral jib is unfolded from the truck bed, and two cables are strung from the winch (located behind the driver’s cab) through the jib pulleys, around the pontoon retrieving guides, and secured to the pontoon retrieval studs. The winch simultaneously folds and lifts the pontoon to the truck bed. The jib is then folded back into the truck bed, and the pontoon is winched over the roller system and secured. The whole procedure takes but a very few minutes.\n",
+    "sections": [
+        {
+            "name": "Automotive",
+            "properties": [
+                {
+                    "name": "Engine Name",
+                    "value": "V-64-4 V-12"
+                },
+                {
+                    "name": "Engine Power ",
+                    "units": "hp",
+                    "value": "710.0"
+                },
+                {
+                    "name": "Engine Type",
+                    "value": "Diesel"
+                },
+                {
+                    "name": "Fording Depth ",
+                    "units": "m",
+                    "value": "1.2"
+                },
+                {
+                    "name": "Range, Cruising ",
+                    "units": "km",
+                    "value": "500.0"
+                },
+                {
+                    "name": "Speed, Maximum Off-Road",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Speed, Maximum Road ",
+                    "units": "km/h",
+                    "value": "55.0"
+                },
+                {
+                    "name": "Speed, Maximum Swim ",
+                    "units": "km/h",
+                    "value": "INA"
+                },
+                {
+                    "name": "Vertical Step ",
+                    "units": "m",
+                    "value": "2.8"
+                }
+            ]
+        },
+        {
+            "name": "Bridge",
+            "properties": [
+                {
+                    "name": "Bridge/center",
+                    "value": "32.0"
+                },
+                {
+                    "name": "Capacity/Load Class ",
+                    "units": "mt",
+                    "value": "60.0"
+                },
+                {
+                    "name": "Material",
+                    "value": "SKhL-4 steel"
+                },
+                {
+                    "name": "Ramp/shore",
+                    "value": "4.0"
+                },
+                {
+                    "name": "Roadway Width ",
+                    "units": "m",
+                    "value": "6.5"
+                },
+                {
+                    "name": "Type",
+                    "value": "Pontoon"
+                },
+                {
+                    "name": "Working Party",
+                    "value": "Varies - approx. 65 for full bridge set. See raft assembly data."
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Length ",
+                            "units": "m",
+                            "value": "227.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Communications",
+            "sections": [
+                {
+                    "name": "Radio",
+                    "properties": [
+                        {
+                            "name": "Name",
+                            "value": "R-173 and R-134"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "Ribbon bridge"
+                },
+                {
+                    "name": "Chassis",
+                    "value": "KraZ-255B"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "3.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1961.0"
+                },
+                {
+                    "name": "Ground Pressure ",
+                    "units": "kg/cm2",
+                    "value": "INA"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": "Over 20 countries."
+                },
+                {
+                    "name": "Troop Capacity ",
+                    "units": "ea",
+                    "value": "INA"
+                },
+                {
+                    "name": "Weight, Combat ",
+                    "units": "mt",
+                    "value": "36.0"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Height, Overall ",
+                            "units": "m",
+                            "value": "3.85"
+                        },
+                        {
+                            "name": "Length, Overall ",
+                            "units": "m",
+                            "value": "13.5"
+                        },
+                        {
+                            "name": "Width, Overall ",
+                            "units": "m",
+                            "value": "3.5/10.5"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

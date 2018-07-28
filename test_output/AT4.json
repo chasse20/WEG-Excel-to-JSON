@@ -1,0 +1,164 @@
+
+{
+    "notes": "The AT4 is a lightweight, preloaded, disposable anti-armor weapon intended for firing one round, after which the tube is discarded. All AT4 systems share the same launcher but may contain different preloaded munitions. The variant selected depends on the intended use. The AT4’s average recoil is comparable to the M-4 rifle.",
+    "sections": [
+        {
+            "name": "Munition",
+            "sections": [
+                {
+                    "name": "Munition 3",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "500.0"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "84.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "220.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "AT4 CS (confined space)"
+                        },
+                        {
+                            "name": "Range, Arming ",
+                            "units": "m",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Range, Effective Point Target",
+                            "units": "m",
+                            "value": "500.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "HEAT, HEDP"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "6.0"
+                        }
+                    ]
+                },
+                {
+                    "name": "Munition 4",
+                    "properties": [
+                        {
+                            "name": "Armor Penetration ",
+                            "units": "mm CE",
+                            "value": "600.0"
+                        },
+                        {
+                            "name": "Cailber/Length ",
+                            "units": "mm",
+                            "value": "84.0"
+                        },
+                        {
+                            "name": "Muzzle Velocity ",
+                            "units": "m/s",
+                            "value": "290.0"
+                        },
+                        {
+                            "name": "Name",
+                            "value": "AT4 HP (high penetration)"
+                        },
+                        {
+                            "name": "Range, Arming ",
+                            "units": "m",
+                            "value": "INA"
+                        },
+                        {
+                            "name": "Range, Effective ",
+                            "units": "m",
+                            "value": "300.0"
+                        },
+                        {
+                            "name": "Type",
+                            "value": "HEAT"
+                        },
+                        {
+                            "name": "Weight ",
+                            "units": "kg",
+                            "value": "6.0"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "System",
+            "properties": [
+                {
+                    "name": "Alternative Designation",
+                    "value": "US M136, Boors AT 4, FFV AT4"
+                },
+                {
+                    "name": "Cailber/Length ",
+                    "units": "mm",
+                    "value": "84.0"
+                },
+                {
+                    "name": "Crew ",
+                    "units": "ea",
+                    "value": "1.0"
+                },
+                {
+                    "name": "Date of Introduction",
+                    "value": "1987.0"
+                },
+                {
+                    "name": "Fire from Inside Building",
+                    "value": "yes"
+                },
+                {
+                    "name": "Proliferation",
+                    "value": " Albania, Argentina, Bosnia and Herzegovina, Brazil, Canada, Chile, Colombia, Croatia, Denmark, Dominican Republic, Estonia, France, Georgia, Greece, Iraq, Ireland, Latvia, \nLebanon, Lithuania, Malaysia, Netherlands, Philippines, Poland, Sweden, Taiwan, United Kingdom, United States"
+                },
+                {
+                    "name": "Weight ",
+                    "units": "kg",
+                    "value": "6.0"
+                }
+            ],
+            "sections": [
+                {
+                    "name": "Dimensions",
+                    "properties": [
+                        {
+                            "name": "Length, Firing ",
+                            "units": " m",
+                            "value": "1.0"
+                        },
+                        {
+                            "name": "Length, Travel ",
+                            "units": "m",
+                            "value": "1.0"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "variants": [
+        {
+            "name": "LMAW: Light Multipurpose Assault Weapon",
+            "notes": "Confined space"
+        },
+        {
+            "name": "AT4 CS",
+            "notes": "High penetration"
+        },
+        {
+            "name": "AT4 HP",
+            "notes": "High penetration"
+        }
+    ]
+}
